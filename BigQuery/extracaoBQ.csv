@@ -1,0 +1,973 @@
+app_id,Nome,price,app_type,genres,developer,publisher,positive_reviews,negative_reviews,percentage_reviews,release_data
+397540,Borderlands 3,179.90,Game,"Action, RPG",Gearbox Software,2K,114735,20168,85.05,03/13/2020
+729040,Borderlands GOTY Enhanced,Gratuito,Game,"Action, RPG","Gearbox Software, Blind Squirrel Games",2K,17653,2838,86.15,04/03/2019
+1588010,PGA TOUR 2K23,299.90,Game,"RPG, Simulation, Sports",HB Studios,2K,3964,1431,73.5,10/13/2022
+1286680,Tiny Tina's Wonderlands,299.90,Game,"Action, Adventure, RPG",Gearbox Software,2K,13763,4644,74.8,06/23/2022
+261640,Borderlands: The Pre-Sequel,99.00,Game,"Action, RPG",2K Australia,2K,32692,7467,81.4,10/14/2014
+409710,BioShock Remastered,29.99,Game,"Action, RPG",2K Boston,2K,43940,10154,81.2,09/15/2016
+360430,Mafia III: Definitive Edition,Gratuito,Game,"Action, Adventure",Hangar 13,2K,29343,21714,57.5,05/19/2020
+8870,BioShock Infinite,Gratuito,Game,Action,Irrational Games,2K,128933,8533,93.8,03/25/2013
+1147690,NGU IDLE,Gratuito,Game,"Adventure, Indie, Simulation, Free To Play",4G,4G,10878,445,96.07,10/01/2019
+2526380,Sword of Convallaria,Gratuito,Game,"RPG, Strategy, Free To Play",XD,XD,1259,455,73.45,07/31/2024
+1974050,Torchlight: Infinite,Gratuito,Game,"Action, Adventure, RPG, Free To Play",XD,XD,8797,3693,70.4,05/09/2023
+8500,EVE Online,Gratuito,Game,"Action, Massively Multiplayer, RPG, Strategy, Free To Play",CCP,CCP,25431,8950,74.0,05/06/2003
+985810,GrandChase,Gratuito,Game,"Action, Casual, Free To Play",KOG,KOG,13798,8881,60.84,07/28/2021
+2923300,Banana,Gratuito,Game,"Adventure, Casual, Simulation, Strategy, Free To Play","Pony, Sky, AestheticSpartan, O'Brian",Sky,33881,7147,82.58,04/23/2024
+993090,Lossless Scaling,16.99,Application,Utilities,THS,THS,8200,1282,86.48,12/28/2018
+544730,Catan Universe,Gratuito,Game,"Casual, Strategy",Client/Frontend: Endava  / Backend: SuperNimbus,USM,7180,7452,49.1,04/25/2017
+1782210,Crab Game,Gratuito,Game,"Action, Casual, Free To Play, Indie, Racing",Dani,Dani,138836,12385,91.81,10/29/2021
+1625450,Muck,Gratuito,Game,"Action, Adventure, Free To Play, Indie",Dani,Dani,157063,10294,93.8,06/05/2021
+268850,EVGA Precision X1,Gratuito,Game,Utilities,EVGA,EVGA,3704,922,80.1,09/20/2018
+1818450,STALCRAFT: X,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG",EXBO,EXBO,39795,12100,76.7,12/09/2022
+1904540,Football Manager 2023,Gratuito,Game,,Sports Interactive,SEGA,17290,2009,89.59,11/08/2022
+2252570,Football Manager 2024,Gratuito,Game,"Simulation, Sports, Strategy",Sports Interactive,SEGA,14292,1505,90.5,11/06/2023
+1056640,Phantasy Star Online 2 New Genesis,Gratuito,Game,"Action, Massively Multiplayer, RPG, Free To Play",SEGA,SEGA,16476,6838,70.7,08/05/2020
+2072450,Like a Dragon: Infinite Wealth,349.90,Game,"Action, Adventure, RPG",Ryu Ga Gotoku Studio,SEGA,11690,1157,91.0,01/25/2024
+1649080,Two Point Campus,80.85,Game,"Casual, Indie, Simulation, Strategy",Two Point Studios,SEGA,4585,694,86.9,08/09/2022
+535930,Two Point Hospital,Gratuito,Game,"Indie, Simulation",Two Point Studios,SEGA,29437,2644,91.8,08/29/2018
+1235140,Yakuza: Like a Dragon,99.90,Game,"Action, Adventure, RPG",Ryu Ga Gotoku Studio,SEGA,27866,1543,94.8,11/10/2020
+638970,Yakuza 0,89.50,Game,"Action, Adventure, RPG",Ryu Ga Gotoku Studio,SEGA,65318,3018,95.6,08/01/2018
+885970,Total War: ROME REMASTERED,125.50,Game,Strategy,Creative Assembly,SEGA,8182,2726,75.0,04/29/2021
+1124300,HUMANKIND™,159.00,Game,Strategy,AMPLITUDE Studios,SEGA,17138,8302,67.4,08/17/2021
+214490,Alien: Isolation,Gratuito,Game,Action,Creative Assembly,SEGA,51548,3858,93.0,10/06/2014
+392110,ENDLESS™ Space 2,79.99,Game,Strategy,AMPLITUDE Studios,SEGA,18005,3577,83.4,05/18/2017
+2273430,BlazBlue Entropy Effect,59.99,Game,"Action, Adventure, Indie",91Act,91Act,20240,1243,94.2,02/14/2024
+920490,Driver Booster for Steam,Gratuito,Game,Utilities,IObit,IObit,6814,1194,85.1,11/01/2018
+2074920,The First Descendant,Gratuito,Game,"Action, Adventure, RPG, Free To Play","NEXON Games Co., Ltd.",NEXON,42612,34654,55.15,06/30/2024
+1948980,大侠立志传：碧血丹心,24.28,Game,"Adventure, Indie, RPG, Simulation",半瓶醋工作室（Half Amateur Studio）,Paleo,15422,2760,84.82,11/16/2023
+2366980,Thank Goodness You're Here!,50.00,Game,"Adventure, Casual, Indie",Coal Supper,Panic,1797,51,97.2,08/01/2024
+4000,Garry's Mod,25.99,Game,"Casual, Indie, Simulation",Facepunch Studios,Valve,1056662,35608,96.74,11/29/2006
+1173510,XSOverlay,20.69,Game,"Utilities, Early Access",Xiexe,Xiexe,1121,170,86.8,03/03/2020
+632470,Disco Elysium,75.49,Game,RPG,ZA/UM,ZA/UM,91304,6671,93.2,10/15/2019
+397900,Business Tour - Online Multiplayer Board Game,Gratuito,Game,"Adventure, Casual, Indie, Massively Multiplayer, Simulation, Strategy, Free To Play",8Floor,8Floor,44672,28829,60.8,07/27/2017
+284160,BeamNG.drive,73.99,Game,"Racing, Simulation, Early Access",BeamNG,BeamNG,257390,7088,97.32,05/29/2015
+1085660,Destiny 2,Gratuito,Game,"Action, Adventure, Free To Play",Bungie,Bungie,490000,119832,80.35,10/01/2019
+2426960,Summoners War,Gratuito,Game,"RPG, Strategy, Free To Play",Com2uS,Com2uS,4405,1705,72.1,01/07/2024
+2167580,Summoners War: Chronicles,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play",Com2uS,Com2uS,8979,2539,78.0,11/10/2022
+440900,Conan Exiles,99.49,Game,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",Funcom,Funcom,79786,21829,78.5,05/08/2018
+2654540,無休仙途,20.49,Game,"Adventure, Casual, Indie, RPG, Simulation, Strategy, Early Access",GOCORE,GOCORE,195,57,77.4,07/25/2024
+1017180,The Long Drive,49.99,Game,"Action, Adventure, Casual, Indie, Simulation, Early Access",Genesz,Genesz,33574,3441,90.7,09/25/2019
+1279510,Screw Drivers,Gratuito,Game,"Action, Indie, Racing, Simulation, Free To Play, Early Access",Creactstudios,Headup,1660,249,87.0,06/20/2024
+1284210,Guild Wars 2,Gratuito,Game,"Adventure, Massively Multiplayer, RPG, Free To Play",ArenaNet®,NCSOFT,15394,1969,88.66,08/23/2022
+1627720,Lies of P,249.90,Game,"Action, Adventure, RPG",NEOWIZ,NEOWIZ,35775,2906,92.5,09/18/2023
+1147560,Skul: The Hero Slayer,59.99,Game,"Action, Indie",SOUTHPAW GAMES,NEOWIZ,48349,3466,93.3,01/20/2021
+960170,DJMAX RESPECT V,98.99,Game,"Action, Casual, Sports",NEOWIZ,NEOWIZ,23310,2961,88.7,03/11/2020
+2078450,"Warhammer 40,000: Speed Freeks",Gratuito,Game,"Racing, Early Access",Caged Element Inc.,PLAION,1382,435,76.1,08/06/2024
+655500,MX Bikes,101.99,Game,"Racing, Simulation, Sports, Early Access",PiBoSo,PiBoSo,20137,1299,93.94,10/07/2019
+843380,Super Animal Royale,74.70,Game,"Action, Adventure, Casual, Indie, Massively Multiplayer, Free To Play",Pixile,Pixile,38104,2538,93.8,08/26/2021
+2003310,Wallpaper Alive,Gratuito,Game,"Casual, Free To Play, Design & Illustration, Utilities",TREE.s,TREE.s,5234,593,89.8,06/04/2022
+686810,Hell Let Loose,234.90,Game,"Action, Indie, Massively Multiplayer, Simulation, Strategy",Team17,Team17,103135,22364,82.18,07/27/2021
+728880,Overcooked! 2,104.99,Game,"Action, Casual, Indie","Ghost Town Games Ltd., Team17",Team17,58284,5955,90.73,08/07/2018
+431240,Golf With Your Friends,79.90,Game,"Casual, Indie, Sports",Blacklight Interactive,Team17,56530,7467,88.3,05/19/2020
+1562430,DREDGE,96.99,Game,"Adventure, RPG",Black Salt Games,Team17,32174,1387,95.9,03/30/2023
+774361,Blasphemous,Gratuito,Game,"Action, Adventure, Indie",The Game Kitchen,Team17,40193,4361,90.2,09/10/2019
+327030,Worms W.M.D,159.90,Game,"Action, Strategy",Team17,Team17,9927,1730,85.2,08/23/2016
+1164940,Trepang2,129.00,Game,"Action, Indie",Trepang Studios,Team17,9048,612,93.7,06/21/2023
+1254120,Bless Unleashed,Gratuito,Game,"Action, Free To Play, Massively Multiplayer, RPG",VALOFE,VALOFE,16057,14539,52.5,08/06/2021
+1623660,MIR4,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Wemade Next,Wemade,9233,4950,65.1,08/25/2021
+1794680,Vampire Survivors,12.99,Game,"Action, Casual, Indie, RPG",poncle,poncle,230334,3498,98.5,10/20/2022
+2742140,修真大陆,Gratuito,Game,"Casual, Massively Multiplayer, RPG, Simulation, Strategy",北冥,北冥,223,65,77.4,04/18/2024
+1188930,Chrono Ark,73.99,Game,"Adventure, Indie, RPG, Strategy",Al Fine,Al Fine,9085,940,90.6,05/03/2024
+388080,Borderless Gaming,23.50,Game,"Action, Utilities",AndrewMD5,Codeusa,3088,582,84.1,07/23/2015
+1465470,The Crust,88.99,Game,"Simulation, Strategy, Early Access",VEOM Studio,Crytivo,1052,375,73.7,07/15/2024
+2551020,One-armed robber,Gratuito,Game,"Action, Indie, Simulation, Strategy, Free To Play",Duhndal,Duhndal,19945,2154,90.3,12/15/2023
+392160,X4: Foundations,134.99,Game,"Action, Simulation, Strategy",Egosoft,Egosoft,16386,4472,78.56,11/30/2018
+573090,Stormworks: Build and Rescue,73.99,Game,Simulation,Geometa,Geometa,43162,5008,89.6,09/17/2020
+1593350,Increlution,Gratuito,Game,"Indie, Early Access",Gniller,Gniller,890,120,88.1,10/13/2021
+2691730,Dungeon Stalkers Playtest,Gratuito,Game,"Action, Adventure, RPG, Free To Play",Action Square(STUDIO HG),HYBE IM,0,0,0.0,2024
+2484250,ASTRA: Knights of Veda,Gratuito,Game,"Action, RPG, Free To Play",FLINT,HYBE IM,1755,2348,42.8,04/01/2024
+2212330,Your Only Move Is HUSTLE,16.99,Game,"Action, Indie, Simulation, Strategy",Ivy Sly,Ivy Sly,23161,860,96.4,02/02/2023
+1920960,VPet,Gratuito,Game,"Casual, Indie, RPG, Simulation, Free To Play",LB Game,LB Game,40429,695,98.31,08/14/2023
+389430,Knight Online,Gratuito,Game,"Action, Adventure, Free To Play, Massively Multiplayer, RPG",Noah System,NTTGame,5318,5314,50.0,01/25/2016
+1997040,MARVEL SNAP,Gratuito,Game,"Casual, Strategy, Free To Play","Second Dinner Studios, Inc.",Nuverse,22248,4586,82.91,08/22/2023
+458750,FireAlpaca SE,Gratuito,Game,"Design & Illustration, Photo Editing",PGN Inc,PGN Inc,416,39,91.4,05/22/2016
+1232580,Knock on the Coffin Lid,22.79,Game,"Adventure, Indie, RPG, Strategy",RedBoon,RedBoon,1101,170,86.6,08/08/2024
+2088570,Tiny Rogues,17.99,Game,"Action, Adventure, Indie, RPG, Early Access",RubyDev,RubyDev,7926,242,97.0,09/23/2022
+1677740,Stumble Guys,Gratuito,Game,"Action, Casual, Indie, Massively Multiplayer, Free To Play",Scopely,Scopely,100613,17355,85.3,10/07/2021
+2138710,Sifu,75.99,Game,"Action, Indie",Sloclap,Sloclap,13485,1068,92.7,03/28/2023
+2962810,Galaxy Idle Clicker,Gratuito,Game,"Casual, Indie, Simulation, Free To Play, Early Access",Soehnle,Soehnle,114,24,82.6,07/18/2024
+460930,Tom Clancy's Ghost Recon® Wildlands,149.99,Game,"Action, Adventure","Ubisoft Paris, Ubisoft Annecy, Ubisoft Bucharest, Ubisoft Montpellier, Ubisoft Milan, Reflections, Ubisoft Belgrade",Ubisoft,71608,18363,79.59,03/07/2017
+291550,Brawlhalla,Gratuito,Game,"Action, Indie, Free To Play",Blue Mammoth Games,Ubisoft,304141,65970,82.2,10/17/2017
+812140,Assassin's Creed Odyssey,179.99,Game,"Action, Adventure, RPG",Ubisoft Quebec,Ubisoft,140887,17189,89.1,10/05/2018
+2231380,Ghost Recon Breakpoint,179.00,Game,"Action, Adventure",Ubisoft Paris,Ubisoft,16358,6464,71.7,01/23/2023
+916440,Anno 1800,179.99,Game,"Simulation, Strategy",Ubisoft Mainz,Ubisoft,15075,3489,81.2,04/2019
+2369390,Far Cry 6,Gratuito,Game,"Action, Adventure",Ubisoft Toronto,Ubisoft,15292,5967,71.9,05/11/2023
+2225070,Trackmania,Gratuito,Game,Racing,Nadeo,Ubisoft,9375,3003,75.7,02/02/2023
+2751000,Prince of Persia The Lost Crown,42.99,Game,"Action, Adventure",Ubisoft Montpellier,Ubisoft,499,166,75.0,08/08/2024
+488790,South Park The Fractured But Whole,139.99,Game,RPG,Ubisoft San Francisco,Ubisoft,22506,4205,84.3,10/16/2017
+221680,Rocksmith® 2014 Edition - Remastered,16.99,Game,"Casual, Simulation",Ubisoft - San Francisco,Ubisoft,20391,2308,89.8,10/22/2013
+298110,Far Cry 4,60.85,Game,"Action, Adventure","Ubisoft Montreal, Red Storm, Shanghai, Toronto, Kiev",Ubisoft,46093,8829,83.9,11/18/2014
+2840770,Avatar: Frontiers of Pandora,299.99,Game,"Action, Adventure",Massive Entertainment – A Ubisoft Studio,Ubisoft,624,378,62.3,06/17/2024
+220240,Far Cry® 3,Gratuito,Game,"Action, Adventure","Ubisoft Montreal, Massive Entertainment, and Ubisoft Shanghai",Ubisoft,92305,10654,89.7,12/04/2012
+646910,The Crew 2,149.99,Game,"Action, Massively Multiplayer, Racing",Ivory Tower,Ubisoft,57767,13859,80.7,06/28/2018
+391540,Undertale,19.99,Game,"Indie, RPG",tobyfox,tobyfox,228561,7895,96.7,09/15/2015
+2725560,Idle Fishing,Gratuito,Game,"Casual, Indie, RPG, Simulation",AO Games,AO Games,349,105,76.9,05/24/2024
+2280,DOOM + DOOM II,49.99,Game,Action,id Software,Bethesda,19616,721,96.5,04/30/1995
+1942280,Brotato,16.99,Game,"Action, Casual, Indie, RPG",Blobfish,Blobfish,75996,2149,97.25,06/23/2023
+3076520,Dog,Gratuito,Game,"Action, Adventure, Casual, Indie, RPG, Simulation, Sports, Strategy, Free To Play",Dog Inc.,Dog Inc.,15,22,40.54,07/21/2024
+1361210,"Warhammer 40,000: Darktide",149.95,Game,"Action, Adventure, Indie",Fatshark,Fatshark,65084,32216,66.89,11/30/2022
+552500,Warhammer: Vermintide 2,Gratuito,Game,"Action, Indie",Fatshark,Fatshark,104269,18712,84.8,03/08/2018
+2016590,Dark and Darker,Gratuito,Game,"Action, RPG, Free To Play, Early Access",IRONMACE,IRONMACE,31434,11345,73.48,06/07/2024
+2336220,Feed The Cups,49.99,Game,"Casual, Indie, Simulation, Early Access",Vambear Games,IndieArk,3061,8988,25.4,02/21/2024
+2881650,Content Warning,26.49,Game,"Action, Adventure, Indie",thePetHen,Landfall,90909,5274,94.5,04/01/2024
+508440,Totally Accurate Battle Simulator,59.99,Game,"Indie, Simulation, Strategy",Landfall,Landfall,123720,2727,97.8,04/01/2021
+1557740,ROUNDS,17.99,Game,"Action, Indie",Landfall,Landfall,28979,1496,95.1,04/01/2021
+674940,Stick Fight: The Game,15.00,Game,"Action, Casual, Indie",Landfall West,Landfall,111688,7581,93.6,09/28/2017
+629520,Soundpad,Gratuito,Game,"Audio Production, Utilities",Leppsoft,Leppsoft,70010,2849,96.1,11/09/2016
+632810,Soundpad Demo,Gratuito,Game,"Audio Production, Utilities",Leppsoft,Leppsoft,70012,2849,96.1,11/09/2016
+1118310,RetroArch,Gratuito,Game,Free To Play,Libretro,Libretro,6063,677,90.0,05/26/2010
+459160,Allods Online,Gratuito,Game,"Free To Play, Massively Multiplayer, RPG",IT Territory,MY.GAMES,522,212,71.1,10/01/2009
+1326470,Sons Of The Forest,88.99,Game,"Action, Adventure, Indie, Simulation",Endnight Games Ltd,Newnight,175051,27682,86.3,02/22/2024
+393380,Squad,134.99,Game,"Action, Indie, Massively Multiplayer, Strategy",Offworld,Offworld,150713,32949,82.06,09/23/2020
+736220,Squad 44,58.90,Game,"Action, Indie, Massively Multiplayer, Strategy",Offworld,Offworld,17076,5343,76.2,08/09/2018
+1268750,Starship Troopers: Extermination,Gratuito,Game,"Action, Indie, Early Access",Offworld,Offworld,23783,4236,84.9,05/17/2023
+2349820,Hero's Land,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",钢之直男工作室,Orienjoy,22660,17910,55.9,05/17/2023
+2739600,剑气劫,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",孤帆工作室,Orienjoy,2958,1681,63.8,01/31/2024
+3056370,Honey Peach Clicker,Gratuito,Game,"Action, Casual, Simulation, Strategy, Free To Play",PeachBoy,PeachBoy,34,31,52.3,07/08/2024
+858210,Nova Drift,14.48,Game,"Action, Indie",Chimeric,Pixeljam,11663,505,95.8,08/12/2024
+1637320,Dome Keeper,54.99,Game,"Action, Adventure, Indie, Simulation",Bippinbits,Raw Fury,11397,1014,91.8,09/27/2022
+701160,Kingdom Two Crowns,59.99,Game,"Adventure, Indie, Simulation, Strategy",Stumpy🐙Squid,Raw Fury,23695,2258,91.3,12/11/2018
+1785150,Friends vs Friends,32.99,Game,"Action, Indie",Brainwash Gang,Raw Fury,9471,1941,83.0,05/30/2023
+105600,Terraria,32.99,Game,"Action, Adventure, Indie, RPG",Re-Logic,Re-Logic,1289387,31977,97.58,05/16/2011
+471710,Rec Room,Gratuito,Game,"Adventure, Casual, Massively Multiplayer, Free To Play",Rec Room,Rec Room,59188,6288,90.4,06/01/2016
+239140,Dying Light,50.99,Game,"Action, RPG",Techland,Techland,403562,20494,95.2,01/26/2015
+534380,Dying Light 2: Reloaded Edition,249.00,Game,"Action, Adventure, RPG",Techland,Techland,132234,36654,78.3,02/03/2022
+208650,Batman™: Arkham Knight,89.99,Game,"Action, Adventure",Rocksteady Studios,WB Games,110893,15524,87.72,06/23/2015
+356190,Middle-earth™: Shadow of War™,Gratuito,Game,"Action, Adventure, RPG",Monolith Productions,WB Games,88117,11608,88.36,10/10/2017
+200260,Batman: Arkham City GOTY,89.99,Game,"Action, Adventure",Rocksteady Studios,WB Games,60476,2486,96.1,09/07/2012
+35140,Batman: Arkham Asylum GOTY Edition,89.99,Game,"Action, Adventure",Rocksteady Studios,WB Games,63237,2448,96.3,03/26/2010
+629730,Blade & Sorcery,88.99,Game,"Action, Adventure, Indie, RPG, Simulation",WarpFrog,WarpFrog,50664,1660,96.8,12/11/2018
+1966720,Lethal Company,32.99,Game,"Action, Adventure, Indie, Early Access",Zeekerss,Zeekerss,411077,11157,97.4,10/23/2023
+1296830,暖雪 Warm Snow,51.99,Game,"Action, Adventure, Indie, RPG",BadMudStudio,bilibili,32495,2460,93.0,01/18/2022
+2103140,Magicraft,Gratuito,Game,"Action, Adventure, Indie, RPG, Early Access",Wave Game,bilibili,5937,722,89.2,11/01/2023
+774171,Muse Dash,10.49,Game,"Action, Casual, Indie",peropero,hasuhasu,99897,11813,89.4,06/20/2019
+2132850,Rabbit and Steel,46.99,Game,"Action, Adventure, Indie, RPG",mino_dev,mino_dev,5760,163,97.2,05/09/2024
+805550,Assetto Corsa Competizione,Gratuito,Game,"Racing, Simulation, Sports",Kunos Simulazioni,505 Games,32086,2678,92.3,05/29/2019
+329110,Gems of War,Gratuito,Game,"Action, Adventure, Casual, RPG, Strategy, Free To Play",Infinity Plus 2,505 Games,7801,2026,79.4,11/20/2014
+1850570,DEATH STRANDING DIRECTOR'S CUT,39.99,Game,"Action, Adventure",KOJIMA PRODUCTIONS,505 Games,26674,2100,92.7,03/30/2022
+2933080,Crime Boss: Rockay City,Gratuito,Game,Action,INGAME STUDIOS,505 Games,3202,1185,73.0,06/18/2024
+870780,Control Ultimate Edition,Gratuito,Game,"Action, Adventure",Remedy Entertainment,505 Games,40117,5763,87.4,08/27/2020
+1127400,Mindustry,20.69,Game,Strategy,AnukenDev,AnukenDev,18765,831,95.8,09/26/2019
+1282100,Remnant II,199.99,Game,"Action, Adventure, RPG",Gunfire Games,Arc Games,44127,8509,83.8,07/25/2023
+9900,Star Trek Online,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play",Cryptic Studios,Arc Games,15304,4076,79.0,02/02/2010
+109600,Neverwinter,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Cryptic Studios,Arc Games,29368,8479,77.6,12/05/2013
+617290,Remnant: From the Ashes,Gratuito,Game,"Action, Adventure, RPG",Gunfire Games,Arc Games,43299,7798,84.7,08/20/2019
+2276930,Chillquarium,20.49,Game,"Casual, Simulation",Ben Reber,Ben Reber,4973,379,92.9,09/06/2023
+489520,Minion Masters,Gratuito,Game,"Action, Adventure, Indie, RPG, Strategy, Free To Play",BetaDwarf,BetaDwarf,57476,6633,89.7,05/24/2019
+2194530,Yog-Sothoth's Yard,35.79,Game,"Indie, RPG, Simulation",Bone Nail,Bone Nail,7974,474,94.4,10/19/2023
+445220,Avorion,73.99,Game,"Action, Indie, Simulation",Boxelware,Boxelware,11641,1267,90.2,03/09/2020
+3107070,THE JOY OF CREATION Demo,Gratuito,Game,"Indie, Simulation",Nikson,Clickteam,0,0,0.0,2025
+1689500,Dune: Imperium,68.07,Game,"Simulation, Strategy",Dire Wolf,Dire Wolf,2024,89,95.8,03/13/2024
+2892880,修仙小屋,Gratuito,Game,"Casual, Massively Multiplayer, Simulation, Free To Play, Early Access",Doge Game,Doge Game,515,105,83.1,04/22/2024
+585420,Trailmakers,47.49,Game,"Action, Adventure, Indie, Racing, Simulation",Flashbulb,Flashbulb,21109,1689,92.6,09/18/2019
+1069660,Ultimate Admiral: Dreadnoughts,101.99,Game,"Indie, RPG, Simulation, Strategy",Game-Labs,Game-Labs,4120,1989,67.4,01/25/2023
+502520,Ultimate General: Civil War,88.99,Game,"Indie, Simulation, Strategy",Game-Labs,Game-Labs,6836,814,89.4,07/14/2017
+1377580,Soulworker,Gratuito,Game,"Action, Massively Multiplayer, RPG, Free To Play",VALOFE,G・O・P,7444,2779,72.8,10/02/2020
+1399720,Antimatter Dimensions,Gratuito,Game,"Casual, Free To Play, Indie, Strategy",Hevipelle,Hevipelle,2736,231,92.2,12/17/2022
+513710,SCUM,115.00,Game,"Action, Adventure, Indie, Massively Multiplayer, Early Access",Gamepires,Jagex Ltd,77891,26942,74.3,08/29/2018
+1343400,RuneScape,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play",Jagex Ltd,Jagex Ltd,19950,3851,83.82,10/14/2020
+1267910,Melvor Idle,32.99,Game,"Adventure, Casual, Indie, RPG",Games by Malcs,Jagex Ltd,11456,1209,90.5,11/18/2021
+1343370,Old School RuneScape,Gratuito,Game,"Adventure, Massively Multiplayer, RPG, Free To Play",Jagex Ltd,Jagex Ltd,14264,1758,89.0,02/22/2013
+2471100,Unnamed Space Idle,Gratuito,Game,"Casual, Simulation, Free To Play, Early Access",Sylv,Jdog Corp,1557,123,92.68,07/27/2023
+1201240,BLEACH Brave Souls - 3D Action,Gratuito,Game,"Action, Casual, RPG, Free To Play",KLab Inc.,KLab Inc.,9432,1234,88.43,08/18/2020
+32470,STAR WARS™ Empire at War: Gold Pack,59.99,Game,Strategy,Petroglyph,LucasArts,35829,876,97.6,02/16/2006
+646570,Slay the Spire,74.99,Game,"Indie, Strategy",Mega Crit,Mega Crit,158856,3517,97.8,01/23/2019
+418530,Spelunky 2,37.99,Game,"Action, Indie",Mossmouth,Mossmouth,17859,1337,93.0,09/29/2020
+1812620,DSX,26.49,Application,Utilities,Paliverse,Paliverse,2171,1218,64.06,06/24/2022
+2379780,Balatro,44.99,Game,"Casual, Indie, Strategy",LocalThunk,Playstack,45717,1230,97.38,02/20/2024
+427410,Abiotic Factor,73.99,Game,"Action, Adventure, RPG, Simulation, Early Access",Deep Field Games,Playstack,14220,570,96.1,05/02/2024
+937310,Infinitode 2,Gratuito,Game,"Indie, Strategy, Free To Play",Prineside,Prineside,2942,258,91.9,04/30/2021
+1029690,Sniper Elite 5,93.99,Game,"Action, Adventure",Rebellion,Rebellion,15370,3319,82.2,05/25/2022
+312660,Sniper Elite 4,105.99,Game,"Action, Adventure",Rebellion,Rebellion,51120,5028,91.0,02/13/2017
+1973710,ヘブンバーンズレッド,Gratuito,Game,"Adventure, RPG, Free To Play","WFS, Inc.","WFS, Inc.",3358,500,87.0,08/10/2022
+1456940,Level Zero: Extraction,78.26,Game,"Action, Adventure, Indie, Massively Multiplayer, Simulation, Early Access",Doghowl Games,tinyBuild,929,404,69.7,08/13/2024
+599140,Graveyard Keeper,59.99,Game,"Adventure, Indie, RPG, Simulation",Lazy Bear Games,tinyBuild,34710,5475,86.4,08/15/2018
+512900,Streets of Rogue,59.99,Game,"Action, Adventure, Indie, RPG",Matt Dabrowski,tinyBuild,20119,808,96.1,07/12/2019
+677620,Splitgate,Gratuito,Game,"Action, Free To Play, Indie",1047 Games,1047 Games,102107,9460,91.5,05/24/2019
+544810,KARDS - The WWII Card Game,Gratuito,Game,"Casual, Indie, Strategy, Free To Play",1939 Games,1939 Games,23992,7025,77.4,04/15/2020
+1938090,Call of Duty®,339.00,Game,Action,"Sledgehammer Games, Treyarch, Infinity Ward, Beenox, Raven Software, High Moon Studios, Demonware",Activision,352676,251325,58.39,10/28/2022
+2000950,Call of Duty®: Modern Warfare®,274.00,Game,Action,Infinity Ward,Activision,13068,3600,78.4,03/08/2023
+292730,Call of Duty: Infinite Warfare,139.00,Game,"Action, Adventure",Infinity Ward,Activision,16145,11250,58.9,11/04/2016
+393080,Call of Duty: Modern Warfare Remastered (2017),184.00,Game,Action,Raven Software,Activision,7008,6548,51.7,07/27/2017
+2808930,Lust Goddess,Gratuito,Game,,BRAWEA LTD,BRAWEA LTD,2710,2735,49.77,02/21/2024
+620980,Beat Saber,88.99,Game,Indie,Beat Games,Beat Games,69805,3172,95.7,05/21/2019
+2826180,ChillPulse,16.99,Game,"Adventure, Casual, Indie, Simulation",Catos Game,Catos Game,1339,68,95.2,05/02/2024
+2289450,Idle Cave Miner,Gratuito,Game,"Casual, Indie, Simulation, Free To Play",Cold Hours,Cold Hours,183,65,73.8,12/07/2023
+815370,Green Hell,47.49,Game,"Action, Adventure, Indie, Simulation",Creepy Jar,Creepy Jar,60492,9354,86.6,09/05/2019
+412220,DDNet,Gratuito,Game,"Action, Indie, Racing, Free To Play",DDNet Team,DDNet Team,18167,1596,91.9,08/17/2020
+200210,Realm of the Mad God Exalt,Gratuito,Game,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",Wild Shadow Studios,Deca Games,38010,7677,83.2,02/20/2012
+1325860,VTube Studio,Gratuito,Application,"Indie, Animation & Modeling, Video Production",DenchiSoft,DenchiSoft,4316,357,92.36,03/12/2021
+2961880,Grocery Store Simulator,Gratuito,Game,"Casual, Indie, Simulation, Early Access",FEKK Games,FEKK Games,1865,100,94.9,06/10/2024
+552100,Brick Rigs,57.99,Game,Simulation,Fluppisoft,Fluppisoft,40994,2556,94.1,07/14/2023
+337410,Karos,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play",Galaxy Gate,GameXP.com,657,324,67.0,12/24/2014
+945360,Among Us,14.99,Game,Casual,Innersloth,Innersloth,631803,56474,91.8,11/16/2018
+2103530,Idle Clans,Gratuito,Game,"Casual, Indie, Massively Multiplayer, RPG, Free To Play, Early Access",Isam Games,Isam Games,571,242,70.2,04/07/2023
+2420510,HoloCure - Save the Fans!,Gratuito,Game,"Action, Adventure, Casual, Indie",KayAnimate,KayAnimate,30397,227,99.3,08/16/2023
+610080,Realm Grinder,Gratuito,Game,"Free To Play, RPG, Strategy",Divine Games,Kongregate,5917,868,87.2,06/15/2017
+280680,Krita,32.99,Game,"Indie, Animation & Modeling, Design & Illustration, Photo Editing",Krita Team,Krita Team,3797,184,95.4,06/10/2014
+1476970,Legends of Idleon MMO,Gratuito,Game,"Casual, Indie, Massively Multiplayer, RPG, Simulation, Free To Play, Early Access",Lavaflame2,Lavaflame2,13765,3826,78.25,04/02/2021
+1868140,DAVE THE DIVER,59.99,Game,"Adventure, Casual, RPG, Simulation",MINTROCKET,MINTROCKET,104927,2956,97.26,06/28/2023
+1594320,Captain of Industry,88.99,Game,"Indie, Simulation, Strategy, Early Access",MaFi Games,MaFi Games,5461,336,94.2,05/31/2022
+1284190,The Planet Crafter,73.99,Game,Adventure,Miju Games,Miju Games,38104,1564,96.1,04/10/2024
+1029780,Going Medieval,73.99,Game,"Indie, RPG, Simulation, Strategy, Early Access",Foxy Voxel,Mythwright,15507,1744,89.9,06/01/2021
+2142790,Fields of Mistria,44.49,Game,"Indie, RPG, Simulation, Early Access",NPC Studio,NPC Studio,4510,73,98.4,08/05/2024
+960090,Bloons TD 6,27.89,Game,Strategy,Ninja Kiwi,Ninja Kiwi,314322,8689,97.31,12/18/2018
+1276390,Bloons TD Battles 2,Gratuito,Game,"Action, Casual, Indie, Strategy, Free To Play",Ninja Kiwi,Ninja Kiwi,25307,4961,83.6,11/30/2021
+774801,Crab Champions,32.99,Game,"Action, Adventure, Casual, Indie, Early Access",Noisestorm,Noisestorm,22291,455,98.0,04/01/2023
+1009850,OVR Advanced Settings,26.49,Application,Utilities,OVRAS Team,OVRAS Team,3717,255,93.58,04/14/2020
+1535560,Farmer Against Potatoes Idle,Gratuito,Game,"Casual, Free To Play, Indie, RPG, Simulation, Early Access",Oni Gaming,Oni Gaming,5264,223,95.9,08/25/2022
+1454400,Cookie Clicker,9.99,Game,"Casual, Indie, Simulation, Strategy","Orteil, DashNet",Playsaurus,65734,2152,96.83,09/01/2021
+363970,Clicker Heroes,Gratuito,Game,"Adventure, Casual, Indie, RPG, Simulation, Strategy, Free To Play",Playsaurus,Playsaurus,54362,6223,89.7,05/13/2015
+1397920,Mr.Mine,Gratuito,Game,"Adventure, Casual, Indie, RPG, Simulation, Strategy, Free To Play",Playsaurus,Playsaurus,14432,1211,92.3,09/30/2020
+1623730,Palworld,88.99,Game,"Action, Adventure, Indie, RPG, Early Access",Pocketpair,Pocketpair,295519,19674,93.8,01/18/2024
+2459550,Emberward,34.99,Game,"Indie, Strategy, Early Access",ReficGames,ReficGames,1018,41,96.1,06/25/2024
+1128810,RISK: Global Domination,Gratuito,Game,"Casual, Strategy, Free To Play",SMG Studio,SMG Studio,29382,7086,80.6,02/19/2020
+3017120,Egg Surprise,Gratuito,Game,"Casual, Simulation, Free To Play",SQRT Games,SQRT Games,560,207,73.0,06/20/2024
+671860,BattleBit Remastered,49.00,Game,"Action, Massively Multiplayer, Early Access","SgtOkiDoki, Vilaskis, TheLiquidHorse",SgtOkiDoki,119236,16075,88.12,06/15/2023
+1062810,Inkbound,88.99,Game,"RPG, Strategy",Shiny Shoe,Shiny Shoe,2796,326,89.6,04/09/2024
+505460,Foxhole,57.99,Game,"Action, Indie, Massively Multiplayer, RPG, Strategy",Siege Camp,Siege Camp,30454,6543,82.3,09/28/2022
+2989820,Pocket Waifu: Desktop Pet,Gratuito,Game,"Casual, Indie, Free To Play",Mon Amiral,Silvervale,207,2,99.0,08/13/2024
+475150,Titan Quest Anniversary Edition,36.99,Game,"Action, RPG",Iron Lore Entertainment,THQ Nordic,30941,2978,91.2,08/31/2016
+1084160,Jagged Alliance 3,121.99,Game,"Action, Strategy",Haemimont Games,THQ Nordic,10254,1190,89.6,07/14/2023
+228380,Wreckfest,82.45,Game,"Action, Indie, Racing, Simulation, Sports",Bugbear,THQ Nordic,32392,4442,87.9,06/14/2018
+1288320,Way of the Hunter,75.00,Game,"Adventure, Simulation, Sports",Nine Rocks Games,THQ Nordic,5947,1646,78.3,08/16/2022
+629760,MORDHAU,88.99,Game,"Action, Indie",Triternion,Triternion,89514,21782,80.4,04/29/2019
+992070,Idle Wizard,Gratuito,Game,"Casual, Free To Play",TwoWizards,TwoWizards,1248,185,87.1,01/25/2019
+1416920,中国式网游,32.99,Game,"Indie, RPG, Simulation",648工作室,Wise Games,2159,748,74.3,07/18/2024
+2972990,ホロライブお宝マウンテン,29.99,Game,Casual,BeXide Inc.,holo Indie,224,5,97.8,07/31/2024
+1486350,VRoid Studio,Gratuito,Game,"Free To Play, Animation & Modeling, Design & Illustration",pixiv Inc.,pixiv Inc.,3641,207,94.6,12/23/2020
+3056550,Bananamana,Gratuito,Game,"Simulation, Free To Play",randomspin,randomspin,60,42,58.8,07/04/2024
+493520,GTFO,74.99,Game,Action,10 Chambers,10 Chambers,49177,9218,84.2,12/09/2021
+335240,Transformice,Gratuito,Game,"Free To Play, Indie, Massively Multiplayer",Atelier 801,Atelier 801,23836,3240,88.0,01/30/2015
+211820,Starbound,46.99,Game,"Action, Adventure, Casual, Indie, RPG",Chucklefish,Chucklefish,151330,12394,92.4,07/22/2016
+690790,DiRT Rally 2.0,47.49,Game,"Racing, Simulation, Sports",Codemasters,Codemasters,35013,4823,87.9,02/25/2019
+477160,Human Fall Flat,37.99,Game,"Adventure, Casual, Indie, Simulation",No Brakes Games,Curve Games,192116,10717,94.7,07/22/2016
+527230,For The King,37.99,Game,"Adventure, Indie, RPG, Strategy",IronOak Games,Curve Games,34925,4592,88.4,04/19/2018
+1676840,For The King II,14.73,Game,"Adventure, Indie, RPG, Strategy",IronOak Games,Curve Games,7633,3334,69.6,11/02/2023
+2291060,EARTH DEFENSE FORCE 6,229.90,Game,Action,SANDLOT,D3PUBLISHER,2713,2086,56.5,07/25/2024
+1007040,EARTH DEFENSE FORCE 5,109.99,Game,Action,SANDLOT,D3PUBLISHER,9647,549,94.6,07/11/2019
+934700,Dead Island 2,299.00,Game,"Action, Adventure",Dambuster Studios,Deep Silver,5873,2042,74.2,04/22/2024
+1272080,PAYDAY 3,199.00,Game,"Action, Adventure, RPG",Starbreeze Studios,Deep Silver,20626,31912,39.3,09/21/2023
+1451190,Undisputed,249.00,Game,"Action, Simulation, Sports, Early Access",Steel City Interactive,Deep Silver,10634,4387,70.8,01/31/2023
+1449560,Metro Exodus Enhanced Edition,149.00,Game,Action,4A Games,Deep Silver,96328,11296,89.5,02/14/2019
+412020,Metro Exodus,149.00,Game,Action,4A Games,Deep Silver,96328,11296,89.5,02/14/2019
+1812450,Bellwright,88.99,Game,"Action, RPG, Simulation, Strategy, Early Access",Donkey Crew,Donkey Crew,5934,1737,77.4,04/23/2024
+1217060,Gunfire Reborn,55.00,Game,"Action, Adventure, Indie, RPG",Duoyi Games,Duoyi Games,88833,6119,93.6,11/17/2021
+1943950,Escape the Backrooms,20.69,Game,"Indie, Early Access",Fancy Games,Fancy Games,73093,7309,90.9,08/11/2022
+1162750,Songs of Syx,Gratuito,Game,"Indie, Simulation, Strategy, Early Access",Gamatron AB,Gamatron AB,4747,169,96.6,09/21/2020
+769560,Night of the Full Moon,Gratuito,Game,"Adventure, Indie, Strategy, Free To Play",Giant Games,Giant Games,8178,1472,84.7,07/26/2019
+275850,No Man's Sky,162.00,Game,"Action, Adventure",Hello Games,Hello Games,254303,58801,81.22,08/12/2016
+3047030,Tapple,Gratuito,Game,"Casual, Indie, Simulation, Strategy, Free To Play",Zeeno,L7 Software,264,112,70.21,06/29/2024
+2854160,"INAZUMA ELEVEN: Victory Road Worldwide Beta Test Demo ""Leave Your Inazuma Mark on the World!""",Gratuito,Game,"RPG, Sports",LEVEL5 Inc.,LEVEL5 Inc.,0,0,0.0,
+224260,No More Room in Hell,Gratuito,Game,"Action, Indie, Free To Play",No More Room in Hell Team,Lever Games,64398,7213,89.9,10/31/2011
+233860,Kenshi,57.99,Game,"Action, Indie, RPG, Simulation, Strategy",Lo-Fi Games,Lo-Fi Games,82598,4067,95.3,12/06/2018
+2864890,Magic Research 2,20.49,Game,"Indie, RPG, Simulation",Maticolotto,Maticolotto,256,13,95.2,05/21/2024
+1062090,Timberborn,73.99,Game,"Indie, Simulation, Strategy, Early Access",Mechanistry,Mechanistry,24639,1309,95.0,09/15/2021
+433340,Slime Rancher,59.99,Game,"Action, Adventure, Indie, Simulation",Monomi Park,Monomi Park,121010,2573,97.9,08/01/2017
+1657630,Slime Rancher 2,Gratuito,Game,"Action, Adventure, Casual, Indie, Simulation, Early Access",Monomi Park,Monomi Park,27004,1619,94.3,09/22/2022
+588650,Dead Cells,47.49,Game,"Action, Adventure, Indie",Motion Twin,Motion Twin,151233,4397,97.2,08/06/2018
+1316680,VLADiK BRUTAL,38.49,Game,"Action, Adventure, Casual",Narko Games,Narko Games,3216,410,88.7,08/09/2024
+2670630,Supermarket Simulator,39.99,Game,"Casual, Indie, Simulation, Early Access",Nokta Games,Nokta Games,43543,3187,93.18,02/20/2024
+2772560,Supermarket Simulator: Prologue,Gratuito,Game,"Casual, Indie, Simulation, Free To Play",Nokta Games,Nokta Games,2546,158,94.2,01/26/2024
+881100,Noita,37.99,Game,"Action, Adventure, Indie, RPG, Simulation",Nolla Games,Nolla Games,65246,3225,95.29,10/15/2020
+1905180,OBS Studio,Gratuito,Game,"Utilities, Video Production",OBS Project,OBS Project,24491,1168,95.4,07/14/2014
+1150690,OMORI,37.99,Game,"Adventure, Indie, RPG","OMOCAT, LLC","OMOCAT, LLC",70458,1863,97.4,12/25/2020
+1353300,Idle Slayer,Gratuito,Game,"Casual, Indie, Strategy, Free To Play",Pablo Leban,Pablo Leban,6178,987,86.2,12/21/2020
+669330,Mechabellum,46.99,Game,"Action, Indie, Massively Multiplayer, Simulation, Strategy, Early Access",Game River,Paradox Arc,6801,1321,83.7,05/11/2023
+1859910,活俠傳,59.99,Game,"Adventure, Indie, RPG, Strategy",Obb Studio Inc.,Paras Games,19854,5904,77.1,06/14/2024
+582660,Black Desert,17.46,Game,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",Pearl Abyss,Pearl Abyss,60724,20523,74.74,05/24/2017
+1435790,Escape Simulator,50.00,Game,"Adventure, Casual, Indie, Simulation",Pine Studio,Pine Studio,14220,889,94.1,10/19/2021
+568220,Lobotomy Corporation,47.49,Game,"Indie, Simulation",ProjectMoon,ProjectMoon,34376,2422,93.4,04/09/2018
+1256670,Library Of Ruina,57.99,Game,"Indie, RPG, Strategy",ProjectMoon,ProjectMoon,26169,1820,93.5,08/10/2021
+1973530,Limbus Company,Gratuito,Game,"Action, RPG, Strategy",ProjectMoon,ProjectMoon,29870,5592,84.2,02/26/2023
+252950,Rocket League,Gratuito,Game,"Action, Indie, Racing, Sports",Psyonix LLC,Psyonix LLC,508525,71255,87.71,07/07/2015
+1304930,The Outlast Trials,107.99,Game,"Action, Adventure, Indie",Red Barrels,Red Barrels,48437,3495,93.27,03/05/2024
+1149460,Icarus,101.99,Game,"Action, Adventure, Simulation",RocketWerkz,RocketWerkz,28054,11470,70.98,12/03/2021
+1629520,A Little to the Left,42.48,Game,"Casual, Indie",Max Inferno,Secret Mode,9495,825,92.0,11/08/2022
+400040,ShareX,Gratuito,Application,"Free To Play, Audio Production, Design & Illustration, Photo Editing, Utilities, Video Production, Web Publishing",ShareX Team,ShareX Team,6427,293,95.64,10/02/2015
+760160,Vampire: The Masquerade - Bloodhunt,Gratuito,Game,"Action, Free To Play",Sharkmob AB,Sharkmob AB,41858,13587,75.5,04/27/2022
+1527950,Wartales,129.99,Game,"Adventure, Indie, RPG, Strategy",Shiro Games,Shiro Games,22980,2325,90.8,04/12/2023
+466560,Northgard,57.99,Game,"Indie, Simulation, Strategy",Shiro Games,Shiro Games,52003,7535,87.3,03/07/2018
+1290000,PowerWash Simulator,Gratuito,Game,"Casual, Indie, Simulation",FuturLab,Square Enix,44322,1258,97.24,07/14/2022
+9420,Supreme Commander: Forged Alliance,Gratuito,Game,Strategy,Gas Powered Games,Square Enix,12429,411,96.8,09/28/2011
+225540,Just Cause 3,Gratuito,Game,"Action, Adventure",Avalanche Studios,Square Enix,98864,19374,83.6,11/30/2015
+307690,Sleeping Dogs: Definitive Edition,Gratuito,Game,"Action, Adventure, Racing",United Front Games,Square Enix,58622,4171,93.4,10/08/2014
+636480,Ravenfield,54.99,Game,"Action, Indie, Early Access",SteelRaven7,SteelRaven7,66731,2126,96.9,05/18/2017
+367520,Hollow Knight,46.99,Game,"Action, Adventure, Indie",Team Cherry,Team Cherry,355001,10555,97.1,02/24/2017
+897330,Coloring Pixels,Gratuito,Game,"Casual, Indie, Free To Play",ToastieLabs,ToastieLabs,7008,264,96.4,08/17/2018
+1167630,Teardown,89.99,Game,"Action, Indie, Simulation, Strategy",Tuxedo Labs,Tuxedo Labs,89993,4216,95.5,04/21/2022
+438100,VRChat,Gratuito,Game,"Adventure, Casual, Massively Multiplayer, Simulation, Sports, Free To Play, Early Access",VRChat Inc.,VRChat Inc.,167026,55943,74.91,02/01/2017
+2695940,PANICORE,16.99,Game,"Action, Adventure, Indie",ZTEK Studio,ZTEK Studio,3326,925,78.2,05/31/2024
+1063730,New World,201.99,Game,"Action, Adventure, Massively Multiplayer, RPG",Amazon Games,Amazon Games,191663,88137,68.5,09/28/2021
+1599340,Lost Ark,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Smilegate RPG,Amazon Games,142916,57457,71.3,02/11/2022
+2567870,Chained Together,16.99,Game,"Adventure, Casual, Indie, Simulation",Anegar Games,Anegar Games,24587,3014,89.08,06/19/2024
+2396980,Fate/stay night REMASTERED,Gratuito,Game,Adventure,TYPE-MOON,Aniplex Inc.,1230,70,94.6,08/07/2024
+648800,Raft,36.99,Game,"Adventure, Indie, Simulation",Redbeet Interactive,Axolot Games,300068,20929,93.48,06/20/2022
+387990,Scrap Mechanic,36.99,Game,"Action, Adventure, Indie, Simulation, Early Access",Axolot Games,Axolot Games,100316,8248,92.4,01/19/2016
+2875140,失业了，我获得了亿万游戏财产！,Gratuito,Game,"Adventure, Indie, RPG, Simulation, Strategy",Bolingogames,Bolingogames,965,121,88.9,08/08/2024
+1891700,Tap Ninja,Gratuito,Game,"Action, Casual, Indie, RPG, Free To Play",Broken Glass,Broken Glass,6510,1105,85.49,03/17/2022
+979110,Space Haven,8.99,Game,"Indie, RPG, Simulation, Strategy, Early Access",Bugbyte Ltd.,Bugbyte Ltd.,7168,1102,86.7,05/21/2020
+2244130,Ratopia,59.99,Game,"Adventure, Casual, Indie, Simulation, Strategy, Early Access",Cassel Games,Cassel Games,2249,307,88.0,11/06/2023
+2396910,吞食天地2：誕生,Gratuito,Game,"Adventure, Massively Multiplayer, RPG, Free To Play",Chinesegamer,Chinesegamer,220,232,48.7,02/16/2024
+413150,Stardew Valley,24.99,Game,"Indie, RPG, Simulation",ConcernedApe,ConcernedApe,734225,12620,98.3,02/26/2016
+784950,Conflict of Nations: World War 3,Gratuito,Game,"Free To Play, Indie, Massively Multiplayer, Strategy",Dorado Games,Dorado Games,3589,1017,77.9,03/15/2018
+780310,The Riftbreaker,88.99,Game,"Action, Adventure, Indie, RPG, Simulation, Strategy",EXOR Studios,EXOR Studios,15166,1631,90.3,10/14/2021
+766570,Russian Fishing 4,Gratuito,Game,"Adventure, Casual, Massively Multiplayer, RPG, Simulation, Sports, Free To Play",FishSoft LLC,FishSoft LLC,32137,33103,49.26,11/11/2021
+3132990,Black Myth: Wukong Benchmark Tool,Gratuito,Tool,"Free To Play, Utilities",Game Science,Game Science,3139,270,92.08,08/13/2024
+1366540,Dyson Sphere Program,49.37,Game,"Indie, Simulation, Strategy, Early Access",Youthcat Studio,Gamera Games,78392,1878,97.7,01/20/2021
+1477070,Depersonalization,Gratuito,Game,"Adventure, Casual, Indie, RPG, Strategy",MeowNature,Gamera Games,4183,297,93.4,08/08/2024
+1948800,Yi Xian: The Cultivation Card Game,Gratuito,Game,"Casual, Indie, Strategy, Free To Play",Darksun Studio,Gamera Games,3904,1364,74.1,01/22/2024
+1669980,Volcano Princess,35.79,Game,"Indie, RPG, Simulation",养蛋人 Egg Hatcher,Gamera Games,34423,763,97.8,04/20/2023
+955900,Amazing Cultivation Simulator,47.49,Game,"Indie, RPG, Simulation, Strategy",GSQ Games,Gamera Games,19212,3191,85.8,11/24/2020
+404790,Godot Engine,Gratuito,Game,Game Development,Godot Engine,Godot Engine,4604,177,96.3,02/23/2016
+2239150,Thronefall,32.99,Game,"Action, Indie, Strategy, Early Access",GrizzlyGames,GrizzlyGames,14229,461,96.9,08/02/2023
+1144400,Senren＊Banka,Gratuito,Game,"Adventure, Casual",YUZUSOFT,HIKARI FIELD,24505,241,99.0,02/14/2020
+1363080,Manor Lords,99.99,Game,"Simulation, Strategy, Early Access",Slavic Magic,Hooded Horse,46685,6767,87.34,04/26/2024
+784150,Workers & Resources: Soviet Republic,99.99,Game,"Simulation, Strategy",3Division,Hooded Horse,16415,1596,91.1,06/20/2024
+1336490,Against the Storm,69.99,Game,"Simulation, Strategy",Eremite Games,Hooded Horse,24366,1228,95.2,12/08/2023
+1857090,Norland,69.99,Game,"Simulation, Strategy, Early Access",Long Jaunt,Hooded Horse,3403,903,79.0,07/18/2024
+463530,Empires of the Undergrowth,69.99,Game,"Simulation, Strategy",Slug Disco,Hooded Horse,12066,702,94.5,06/07/2024
+1422440,Cataclismo,69.99,Game,"Simulation, Strategy, Early Access",Digital Sun,Hooded Horse,1918,133,93.5,07/22/2024
+1176470,Terra Invicta,99.99,Game,"Simulation, Strategy, Early Access",Pavonis Interactive,Hooded Horse,4615,1125,80.4,09/26/2022
+1158160,Coral Island,89.99,Game,"Adventure, Casual, Indie, RPG, Simulation, Strategy",Stairway Games,Humble Games,15341,2094,87.99,11/14/2023
+751780,Forager,37.99,Game,"Action, Adventure, Indie, Simulation",HopFrog,Humble Games,35307,3889,90.1,04/18/2019
+1468260,Leaf Blower Revolution - Idle Game,Gratuito,Game,"Casual, Indie, Free To Play",Humble North,Humble North,22055,1270,94.6,12/04/2020
+431730,Aseprite,37.99,Application,"Animation & Modeling, Design & Illustration, Game Development",David Capello,Igara Studio,18472,164,99.12,02/22/2016
+1062520,Dinkum,Gratuito,Game,"Indie, RPG, Simulation, Early Access",James Bendon,James Bendon,19555,1208,94.2,07/14/2022
+975370,Dwarf Fortress,88.99,Game,"Indie, RPG, Simulation, Strategy",Bay 12 Games,Kitfox Games,24992,1278,95.1,12/06/2022
+333640,Caves of Qud,37.99,Game,"Adventure, Indie, RPG, Strategy, Early Access",Freehold Games,Kitfox Games,7280,354,95.4,07/15/2015
+640820,Pathfinder: Kingmaker,99.00,Game,"Adventure, RPG",Owlcat Games,Knights Peak,25151,7086,78.0,09/25/2018
+824270,KovaaK's,20.69,Game,"Action, Indie, Simulation",KovaaK Games,KovaaK Games,29903,2357,92.7,04/03/2018
+1180380,Stay Out,Gratuito,Game,"Action, Indie, Massively Multiplayer, RPG, Free To Play, Early Access",MOBITECH LLC,MOBITECH LLC,13182,8417,61.0,11/27/2019
+1787090,MyDockFinder,23.00,Game,Utilities,MyDockFinder,MyDockFinder,3344,1360,71.1,11/25/2021
+3103840,TCG Card Shop Simulator: Prologue,Gratuito,Game,"Simulation, Free To Play",OPNeon Games,OPNeon Games,758,20,97.4,08/06/2024
+2186680,"Warhammer 40,000: Rogue Trader",124.99,Game,"Adventure, Indie, RPG, Strategy",Owlcat Games,Owlcat Games,14387,3837,78.9,12/07/2023
+1084600,My Time at Sandrock,139.90,Game,"Adventure, Casual, Indie, RPG, Simulation",Pathea Games,Pathea Games,21312,2772,88.5,11/02/2023
+494840,UBOAT,88.99,Game,"Action, Indie, RPG, Simulation, Strategy",Deep Water Studio,PlayWay S.A.,15825,3315,82.68,08/02/2024
+1190000,Car Mechanic Simulator 2021,20.21,Game,"Racing, Simulation",Red Dot Games,PlayWay S.A.,24469,1050,95.9,08/11/2021
+704850,Thief Simulator,Gratuito,Game,"Action, Adventure, Indie, Simulation",Noble Muffins,PlayWay S.A.,27749,3737,88.1,11/09/2018
+983380,Car Manufacture,Gratuito,Game,"Indie, Simulation, Strategy, Early Access",STEREO GAMES S.A.,PlayWay S.A.,413,106,79.6,08/01/2024
+794260,Outward,199.00,Game,RPG,Nine Dots Studio,Prime Matter,19393,7199,72.9,05/17/2022
+2816950,Yaoling: Mythical Journey,54.99,Game,"Adventure, Casual, Indie, RPG, Simulation, Strategy, Early Access",RAYKA STUDIO,RAYKA STUDIO,1538,162,90.5,07/15/2024
+322170,Geometry Dash,16.99,Game,"Action, Indie",RobTop Games,RobTop Games,342744,23984,93.46,12/22/2014
+227300,Euro Truck Simulator 2,61.99,Game,"Indie, Simulation",SCS Software,SCS Software,770500,20649,97.39,10/18/2012
+270880,American Truck Simulator,61.99,Game,"Indie, Simulation",SCS Software,SCS Software,153502,5069,96.8,02/02/2016
+466170,Idling to Rule the Gods,Gratuito,Game,"Casual, Indie, Simulation, Strategy, Free To Play",Shugasu GmbH,Shugasu GmbH,1486,234,86.4,05/27/2016
+1118200,People Playground,20.69,Game,"Action, Casual, Indie, Simulation",mestiez,Studio Minus,252337,3505,98.6,07/23/2019
+212680,FTL: Faster Than Light,23.99,Game,"Indie, Simulation, Strategy",Subset Games,Subset Games,68885,3210,95.5,09/14/2012
+698780,Doki Doki Literature Club,Gratuito,Game,"Casual, Free To Play, Indie",Team Salvato,Team Salvato,194473,7060,96.5,09/22/2017
+204360,Castle Crashers,24.99,Game,"Action, Adventure, Casual, Indie, RPG",The Behemoth,The Behemoth,112158,4523,96.1,09/26/2012
+223850,3DMark,101.99,Game,Utilities,UL Solutions,UL Solutions,15479,1055,93.6,
+1969870,生死狙击2,Gratuito,Game,"Action, Massively Multiplayer, Free To Play",Wizard Games,Wizard Games,11593,8775,56.9,07/21/2022
+2064870,Deceit 2,Gratuito,Game,"Action, Free To Play",World Makers,World Makers,2229,1594,58.3,09/14/2023
+1686940,Bopl Battle,32.99,Game,Action,Johan Grönvall,Zapray Games,10958,362,96.8,11/16/2023
+1318690,shapez,32.99,Game,"Casual, Indie, Simulation, Strategy",Tobias Springer,tobspr Games,11566,429,96.4,06/07/2020
+2764370,星之翼（Starward）,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Game Blender,盛天游戏,635,313,67.0,04/24/2024
+992300,嗜血印 Bloody Spell,Gratuito,Game,"Action, Adventure, Indie, RPG",艺龙游戏,艺龙游戏,29675,3620,89.1,01/26/2022
+1352080,SMASH LEGENDS,Gratuito,Game,"Action, Casual, Free To Play",5minlab Corp.,5minlab Corp.,5906,2563,69.7,04/13/2021
+312520,Rain World,73.99,Game,"Action, Adventure, Indie",Videocult,Akupara Games,30875,1983,94.0,03/28/2017
+707010,Will To Live Online,Gratuito,Game,"Action, Indie, Massively Multiplayer, RPG, Free To Play, Early Access",AlphaSoft LLC,AlphaSoft LLC,11818,5005,70.2,04/05/2018
+1827180,Toram Online,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play","Asobimo, Inc.","Asobimo, Inc.",3572,971,78.6,12/20/2021
+286160,Tabletop Simulator,59.99,Game,"Casual, Indie, RPG, Simulation, Strategy",Berserk Games,Berserk Games,62862,3828,94.26,06/05/2015
+1957780,Ghosts Of Tabor,99.99,Game,"Action, Early Access",Combat Waffle Studios,Beyond Frames,6378,1691,79.0,03/20/2023
+881020,Granblue Fantasy: Relink,199.90,Game,"Action, Adventure, RPG","Cygames, Inc.","Cygames, Inc.",35277,4266,89.2,01/31/2024
+453480,Shadowverse,Gratuito,Game,"Strategy, Free To Play","Cygames, Inc.","Cygames, Inc.",10740,3798,73.9,10/27/2016
+2157560,Granblue Fantasy Versus: Rising,179.90,Game,Action,"Cygames, Inc.","Cygames, Inc.",3273,769,81.0,12/13/2023
+1611600,WARNO,199.49,Game,"Action, Indie, Simulation, Strategy",Eugen Systems,Eugen Systems,8052,1763,82.0,05/23/2024
+251060,Wargame: Red Dragon,149.49,Game,"Indie, Simulation, Strategy",Eugen Systems,Eugen Systems,16521,2013,89.1,04/17/2014
+1812820,Bitburner,Gratuito,Game,Free To Play,Fulcrum Games,Fulcrum Games,5839,302,95.1,12/10/2021
+2445690,Lost Castle 2,46.99,Game,"Action, Adventure, Indie, RPG, Early Access",Hunter Studio,Hunter Studio,3008,1141,72.5,07/24/2024
+492720,Tropico 6,179.00,Game,"Simulation, Strategy",Limbic Entertainment,Kalypso Media,22492,3286,87.3,03/29/2019
+739630,Phasmophobia,27.89,Game,"Action, Indie, Early Access",Kinetic Games,Kinetic Games,672100,28442,95.94,09/18/2020
+1054490,Wingspan,59.99,Game,"Indie, Strategy",Monster Couch,Monster Couch,8540,519,94.3,09/17/2020
+1797880,Lost Light,Gratuito,Game,"Action, Massively Multiplayer, Free To Play",NetEase Games,NetEase Games,12293,9714,55.9,09/01/2022
+551170,Onmyoji,Gratuito,Game,"Adventure, RPG, Strategy",NetEase Games,NetEase Games,2372,521,82.0,04/18/2018
+250900,The Binding of Isaac: Rebirth,27.99,Game,Action,"Nicalis, Inc.","Nicalis, Inc.",289844,7423,97.5,11/04/2014
+1049590,Eternal Return,Gratuito,Game,"Indie, Strategy, Free To Play",Nimble Neuron,Nimble Neuron,46027,12227,79.0,07/20/2023
+1173370,Slapshot: Rebound,Gratuito,Game,"Action, Casual, Indie, Sports, Free To Play",Oddshot Games,Oddshot Games,8779,1793,83.0,04/11/2024
+961200,Predecessor,Gratuito,Game,"Action, Strategy, Free To Play, Early Access",Omeda Studios,Omeda Studios,8091,2674,75.16,12/01/2022
+2756770,Tavern Manager Simulator,Gratuito,Game,"Casual, Indie, Simulation",One More Time,One More Time,491,90,84.5,08/13/2024
+436150,Governor of Poker 3,Gratuito,Game,"Casual, Massively Multiplayer, Simulation, Free To Play",Playtika Ltd.,Playtika Ltd.,10613,4568,69.91,02/19/2016
+2646460,Soulmask,89.99,Game,"Adventure, Indie, Massively Multiplayer, RPG, Simulation, Early Access",CampFire Studio,Qooland Games,7395,2011,78.62,05/31/2024
+1222140,Detroit: Become Human,119.99,Game,"Action, Adventure",Quantic Dream,Quantic Dream,116431,6046,95.1,06/18/2020
+2334730,Death Must Die,23.50,Game,"Action, Casual, Indie, RPG, Early Access",Realm Archive,Realm Archive,16085,1278,92.6,11/14/2023
+880940,Pummel Party,46.99,Game,"Action, Casual, Indie",Rebuilt Games,Rebuilt Games,44889,5637,88.8,09/20/2018
+1066890,Automobilista 2,Gratuito,Game,"Action, Indie, Racing, Simulation, Sports",Reiza Studios,Reiza Studios,8168,688,92.2,03/31/2020
+1546320,Your Chronicle,Gratuito,Game,"RPG, Free To Play",Samurai Games,Samurai Games,1288,321,80.0,04/04/2021
+1170950,Mortal Online 2,75.49,Game,"Action, Indie, Massively Multiplayer, RPG",Star Vault AB,Star Vault AB,7381,4764,60.8,01/25/2022
+2139460,Once Human,Gratuito,Game,"Action, Adventure, RPG, Simulation, Strategy, Free To Play",Starry Studio,Starry Studio,51255,19637,72.3,07/09/2024
+877280,SAO Utils 2: Progressive,Gratuito,Application,Utilities,Joshua Chen,Studio GPBeta,1366,106,92.8,11/05/2022
+786520,SAO Utils: Beta,8.69,Game,"Utilities, Early Access",Joshua Chen,Studio GPBeta,2576,361,87.7,03/14/2018
+670290,Real Pool 3D - Poolians,Gratuito,Game,"Action, Casual, Free To Play, Indie, Massively Multiplayer, Simulation, Sports, Strategy",Poolians.com,ThankGame.com,10571,3148,77.1,12/15/2019
+2231450,Pizza Tower,36.99,Game,"Action, Indie",Tour De Pizza,Tour De Pizza,59454,931,98.5,01/26/2023
+665300,Stream Avatars,46.99,Game,"Animation & Modeling, Audio Production, Design & Illustration, Utilities, Video Production, Web Publishing",Travis Miller,Travis Miller,1922,90,95.5,07/26/2017
+2977660,Cats,Gratuito,Game,"Action, Casual, Indie, Simulation, Free To Play",100 Cozy Games,100 Cozy Games,1741,499,77.72,05/21/2024
+323190,Frostpunk,88.99,Game,"Simulation, Strategy",11 bit studios,11 bit studios,100767,8461,92.3,04/24/2018
+282070,This War of Mine,Gratuito,Game,"Adventure, Indie, Simulation",11 bit studios,11 bit studios,90978,6893,93.0,11/14/2014
+977950,A Dance of Fire and Ice,12.39,Game,Indie,7th Beat Games,7th Beat Games,62850,4044,94.0,01/24/2019
+383980,Rivals of Aether,88.99,Game,Indie,Aether Studios,Aether Studios,32260,1439,95.7,03/28/2017
+3096730,REM: The Prologue,Gratuito,Game,"Action, Indie, Free To Play",Harmonia Games,Aiolos Studios,71,7,91.0,08/12/2024
+2281730,Combat Master,Gratuito,Game,"Action, Free To Play",Alfa Bravo Inc,Alfa Bravo Inc,30034,4131,87.9,04/21/2023
+516750,My Summer Car,27.99,Game,"Indie, Racing, Simulation, Early Access",Amistech Games,Amistech Games,70854,4151,94.5,10/24/2016
+292030,The Witcher 3: Wild Hunt,Gratuito,Game,RPG,CD PROJEKT RED,CD PROJEKT RED,760713,31119,96.07,05/18/2015
+1091500,Cyberpunk 2077,84.99,Game,RPG,CD PROJEKT RED,CD PROJEKT RED,628596,133043,82.5,12/09/2020
+1284410,GWENT: The Witcher Card Game,Gratuito,Game,"RPG, Strategy, Free To Play",CD PROJEKT RED,CD PROJEKT RED,23346,5090,82.1,05/19/2020
+977400,Cell to Singularity - Evolution Never Ends,Gratuito,Game,"Casual, Simulation, Free To Play",Computer Lunch,Computer Lunch,19036,2082,90.1,11/03/2021
+1068820,OVR Toolkit,38.49,Game,Utilities,Curtis English,Curtis English,2546,342,88.2,06/28/2019
+2073850,THE FINALS,Gratuito,Game,"Action, Free To Play",Embark Studios,Embark Studios,134689,44691,75.1,12/07/2023
+1169040,Necesse,16.99,Game,"Action, Adventure, Indie, RPG, Early Access",Fair Games ApS,Fair Games ApS,11822,772,93.87,12/12/2019
+1928420,Farlight 84,Gratuito,Game,"Action, Adventure, Massively Multiplayer, Free To Play",Farlight Games,Farlight Games,36527,9953,78.6,09/21/2023
+1877960,Trimps,Gratuito,Game,"Casual, Free To Play, Indie, Strategy",Greensatellite,Greensatellite,1036,94,91.7,05/02/2022
+386360,SMITE,Gratuito,Game,"Action, Adventure, Casual, Massively Multiplayer, RPG, Strategy, Free To Play",Titan Forge Games,Hi-Rez Studios,93397,24842,78.99,09/08/2015
+444090,Paladins,Gratuito,Game,"Action, Adventure, Massively Multiplayer, Strategy, Free To Play",Evil Mojo Games,Hi-Rez Studios,293301,51759,85.0,05/08/2018
+872200,Rogue Company,Gratuito,Game,"Action, Free To Play",First Watch Games,Hi-Rez Studios,18330,6265,74.5,07/20/2021
+1139980,Travellers Rest,54.99,Game,"Adventure, Casual, Indie, RPG, Simulation, Early Access",Isolated Games,Isolated Games,9449,1179,88.9,07/28/2020
+1086940,Baldur's Gate 3,199.99,Game,"Adventure, RPG, Strategy",Larian Studios,Larian Studios,621335,20540,96.8,08/03/2023
+435150,Divinity: Original Sin 2,90.99,Game,"Adventure, RPG, Strategy",Larian Studios,Larian Studios,173879,7396,95.92,09/14/2017
+373420,Divinity: Original Sin Enhanced Edition,72.99,Game,"Adventure, Indie, RPG, Strategy",Larian Studios,Larian Studios,24170,2695,90.0,10/27/2015
+2064650,Tower of Fantasy,Gratuito,Game,"Action, Massively Multiplayer, RPG, Free To Play",Hotta Studio,Level Infinite,7202,2983,70.7,10/19/2022
+1881700,Undawn,Gratuito,Game,"Adventure, Massively Multiplayer, RPG, Free To Play",Lightspeed Studios,Level Infinite,3288,2727,54.7,06/13/2023
+294100,RimWorld,79.99,Game,"Indie, Simulation, Strategy",Ludeon Studios,Ludeon Studios,188266,3840,98.0,10/17/2018
+1206560,WorldBox - God Simulator,59.99,Game,"Indie, Simulation, Early Access",Maxim Karpenko,Maxim Karpenko,33513,1886,94.7,12/02/2021
+351940,The Descendant,27.99,Game,"Adventure, Casual, Indie",Gaming Corps AB,Microids Indie,6126,792,88.6,03/24/2016
+2113850,Spirit City: Lofi Sessions,24.99,Game,"Casual, Indie, Simulation",Mooncube Games,Mooncube Games,4991,146,97.2,04/08/2024
+1809540,Nine Sols,88.99,Game,"Action, Adventure, Indie",RedCandleGames,RedCandleGames,9898,458,95.6,05/28/2024
+2406770,Bodycam,101.99,Game,"Action, Indie, Massively Multiplayer, Simulation, Strategy, Early Access",Reissad Studio,Reissad Studio,15900,5561,74.1,06/07/2024
+271590,Grand Theft Auto V,Gratuito,Game,"Action, Adventure",Rockstar North,Rockstar Games,1612940,240162,87.04,04/13/2015
+1174180,Red Dead Redemption 2,299.90,Game,"Action, Adventure",Rockstar Games,Rockstar Games,554725,50870,91.6,12/05/2019
+12210,Grand Theft Auto IV: The Complete Edition,79.00,Game,"Action, Adventure","Rockstar North, Rockstar Toronto",Rockstar Games,130318,29034,81.78,12/02/2008
+1404210,Red Dead Online,111.99,Game,"Action, Adventure",Rockstar Games,Rockstar Games,53155,10722,83.2,12/01/2020
+12120,Grand Theft Auto: San Andreas,Gratuito,Game,Action,Rockstar Games,Rockstar Games,75215,6544,92.0,06/06/2005
+692890,Roboquest,Gratuito,Game,"Action, Indie",RyseUp Studios,RyseUp Studios,17278,801,95.6,11/07/2023
+1449690,The Walking Dead: The Telltale Definitive Series,134.99,Game,Adventure,Skybound Games,Skybound Games,20889,753,96.5,10/29/2020
+1243830,Overcooked! All You Can Eat,214.90,Game,"Casual, Indie, Simulation, Strategy",Team17 Digital,Team17 Digital,3485,1264,73.4,03/23/2021
+2080690,Sunkenland,59.99,Game,"Action, Indie, Early Access",Vector3 Studio,Vector3 Studio,15454,3377,82.1,08/25/2023
+1599600,PlateUp!,59.99,Game,"Action, Casual, Indie, Strategy",It's happening,Yogscast Games,19225,899,95.5,08/04/2022
+2400510,Dungeons & Degenerate Gamblers,16.99,Game,"Casual, Indie, RPG, Strategy",Purple Moss Collectors,Yogscast Games,806,316,71.8,08/08/2024
+304050,Trove,Gratuito,Game,"Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play",gamigo US Inc.,gamigo US Inc.,73935,18087,80.3,07/09/2015
+1419170,My Singing Monsters,Gratuito,Game,"Simulation, Free To Play",Big Blue Bubble,Big Blue Bubble,35063,2264,93.9,03/24/2021
+2835570,Buckshot Roulette,9.99,Game,"Action, Indie, Simulation",Mike Klubnika,CRITICAL REFLEX,28001,1494,94.9,04/04/2024
+2218750,Halls of Torment,17.00,Game,"Action, Indie, RPG, Early Access",Chasing Carrots,Chasing Carrots,21459,860,96.1,05/24/2023
+65800,Dungeon Defenders,46.99,Game,"Action, Indie, RPG, Strategy",Chromatic Games,Chromatic Games,16160,1189,93.1,10/18/2011
+236110,Dungeon Defenders II,Gratuito,Game,"Action, Indie, RPG, Strategy, Free To Play",Chromatic Games,Chromatic Games,16616,4820,77.5,06/20/2017
+838350,太吾绘卷 The Scroll Of Taiwu,53.80,Game,"Adventure, Casual, Indie, RPG, Strategy, Early Access",ConchShip Games,ConchShip Games,41167,18193,69.4,09/21/2018
+1970580,Backpack Hero,39.99,Game,"Adventure, Casual, Indie, RPG, Strategy",Jaspel,Different Tales,6113,790,88.6,11/14/2023
+400750,Call to Arms - Gates of Hell: Ostfront,101.99,Game,"Action, Simulation, Strategy",Barbedwire Studios,Digitalmindsoft,14423,3115,82.2,06/11/2021
+3069470,Dollar,3.49,Game,"Casual, Indie",DollarDev,DollarPublisher,176,11,94.1,07/12/2024
+1477830,HudSight - custom crosshair overlay,14.49,Game,"Action, Education, Software Training, Utilities, Video Production",Eduard Kozadaev,Eduard Kozadaev,3410,441,88.5,01/05/2021
+1222670,The Sims™ 4,Gratuito,Game,"Adventure, Casual, Simulation, Free To Play",Maxis,Electronic Arts,128312,18347,87.49,06/18/2020
+1286830,STAR WARS™: The Old Republic™,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play",Broadsword,Electronic Arts,55873,6388,89.74,07/21/2020
+1426210,It Takes Two,199.00,Game,"Action, Adventure",Hazelight Studios,Electronic Arts,162789,8640,94.96,03/26/2021
+1222680,Need for Speed™ Heat,33.00,Game,"Action, Adventure, Racing, Sports",Ghost Games,Electronic Arts,98548,19290,83.63,06/04/2020
+1922560,Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition,159.00,Game,"Action, Casual, Strategy",PopCap,Electronic Arts,23312,2767,89.39,05/16/2022
+2195250,EA SPORTS FC™ 24,359.00,Game,"Simulation, Sports",EA Canada &amp; EA Romania,Electronic Arts,55060,42514,56.4,09/28/2023
+1237970,Titanfall® 2,182.25,Game,Action,Respawn Entertainment,Electronic Arts,219471,10951,95.2,10/28/2016
+1811260,EA SPORTS™ FIFA 23,Gratuito,Game,"Simulation, Sports",EA Canada &amp; EA Romania,Electronic Arts,85357,65358,56.6,09/30/2022
+2140330,Madden NFL 24,359.00,Game,"Simulation, Sports, Strategy",Tiburon,Electronic Arts,3697,4469,45.3,08/17/2023
+1506830,FIFA 22,Gratuito,Game,"Simulation, Sports",EA Canada &amp; EA Romania,Electronic Arts,97425,23645,80.5,10/01/2021
+47890,The Sims™ 3,79.00,Game,Simulation,The Sims Studio,Electronic Arts,27491,4111,87.0,06/02/2009
+1846380,Need for Speed™ Unbound,Gratuito,Game,"Action, Racing",Criterion Games,Electronic Arts,22414,15081,59.8,12/02/2022
+1774580,STAR WARS Jedi: Survivor™,80.00,Game,"Action, Adventure",Respawn,Electronic Arts,36369,17963,66.9,04/27/2023
+2488620,F1® 24,359.00,Game,"Racing, Sports",Codemasters,Electronic Arts,2498,1414,63.9,05/31/2024
+17390,Spore,Gratuito,Game,"Action, Adventure, Casual, RPG, Simulation, Strategy",Maxis™,Electronic Arts,55909,4663,92.3,12/19/2008
+1172380,STAR WARS Jedi: Fallen Order™,Gratuito,Game,"Action, Adventure",Respawn Entertainment,Electronic Arts,130664,16561,88.8,11/14/2019
+1222700,A Way Out,Gratuito,Game,"Action, Adventure, Indie",Hazelight Studios,Electronic Arts,56997,8288,87.3,03/23/2018
+1693980,Dead Space,49.00,Game,"Action, Adventure",Motive,Electronic Arts,38067,3951,90.6,01/27/2023
+2108330,F1® 23,359.00,Game,"Racing, Sports",Codemasters,Electronic Arts,14329,2322,86.1,06/15/2023
+1213210,Command & Conquer™ Remastered Collection,Gratuito,Game,Strategy,Petroglyph,Electronic Arts,28329,2927,90.6,06/05/2020
+19680,Alice: Madness Returns,Gratuito,Game,"Action, Adventure",Spicy Horse Games,Electronic Arts,16737,1895,89.8,06/17/2011
+1262240,Plants vs. Zombies: Battle for Neighborville,129.00,Game,"Action, Casual, Strategy",PopCap,Electronic Arts,11224,4564,71.1,10/18/2019
+1262580,Need for Speed™ Payback,78.65,Game,"Action, Adventure, Racing, Sports, Strategy",Ghost Games,Electronic Arts,22820,3807,85.7,11/06/2017
+1677350,EA SPORTS™ PGA TOUR™,299.00,Game,"RPG, Sports",Electronic Arts - Tiburon,Electronic Arts,943,863,52.2,04/06/2023
+24780,SimCity 4 Deluxe,Gratuito,Game,"Simulation, Strategy",EA - Maxis,Electronic Arts,7034,1582,81.6,09/22/2003
+1119730,Ranch Simulator,47.49,Game,Simulation,Toxic Dog,Excalibur Games,22500,4679,82.8,11/03/2023
+40970,Stronghold Crusader HD,16.99,Game,"Simulation, Strategy",FireFly Studios,FireFly Studios,17770,441,97.6,07/31/2002
+1621690,Core Keeper,59.99,Game,"Adventure, Casual, Indie, RPG, Early Access",Pugstorm,Fireshine Games,30408,2588,92.2,03/08/2022
+986130,Shadows of Doubt,59.99,Game,"Action, Adventure, Indie, RPG, Early Access",ColePowered Games,Fireshine Games,10376,1068,90.7,04/24/2023
+1190970,House Flipper 2,29.49,Game,"Casual, Indie, Simulation",Frozen District,Frozen District,6311,1576,80.0,12/14/2023
+613100,House Flipper,73.99,Game,"Indie, Simulation",Empyrean,Frozen District,82826,5147,94.1,05/17/2018
+1465460,Infection Free Zone,69.00,Game,"Action, Indie, Simulation, Strategy, Early Access",Jutsu Games,Games Operators,7532,2675,73.8,04/11/2024
+1248130,Farming Simulator 22,119.00,Game,Simulation,Giants Software,Giants Software,69785,6062,92.0,11/21/2021
+787860,Farming Simulator 19,76.99,Game,Simulation,Giants Software,Giants Software,68980,4149,94.3,11/19/2018
+1683150,Railroader,88.99,Game,"Simulation, Strategy, Early Access",Giraffe Lab LLC,Giraffe Lab LLC,1837,47,97.5,12/07/2023
+834910,ATLAS,57.99,Game,"Action, Adventure, Massively Multiplayer, RPG, Early Access",Grapeshot Games,Grapeshot Games,20104,22068,47.7,12/22/2018
+1433140,The Texas Chain Saw Massacre,107.99,Game,"Action, Indie",Sumo Digital,Gun Interactive,13497,5755,70.1,08/18/2023
+2963870,Metal Slug: Awakening,Gratuito,Game,"Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play",Tencent,HAOPLAY Limited,833,545,60.4,07/19/2024
+1013320,Firestone: Online Idle RPG,Gratuito,Game,"Action, Adventure, Casual, Indie, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play",Holyday Studios,Holyday Studios,4571,1259,78.4,04/01/2024
+1203620,Enshrouded,89.99,Game,"Action, Adventure, RPG, Early Access",Keen Games GmbH,Keen Games GmbH,46231,7551,85.96,01/24/2024
+1566690,Outpost: Infinity Siege,73.99,Game,"Action, Strategy",Team Ranger,Lightning Games,7777,3848,66.9,03/26/2024
+1184370,Pathfinder: Wrath of the Righteous - Enhanced Edition,119.99,Game,"Adventure, Indie, RPG, Strategy",Owlcat Games,META Publishing,28233,5569,83.5,09/02/2021
+644930,They Are Billions,58.99,Game,Strategy,Numantian Games,Numantian Games,39671,6913,85.16,06/18/2019
+1097150,Fall Guys,Gratuito,Game,"Action, Casual, Indie, Massively Multiplayer, Sports",Mediatonic,Não encontrado,387208,89289,81.3,08/03/2020
+2067920,Rogue: Genesia,29.99,Game,"Action, Casual, RPG, Strategy, Early Access",Ouadi Huard,Não encontrado,4930,397,92.5,09/19/2022
+2963880,Murky Divers,20.99,Game,"Action, Adventure, Indie, Early Access",Embers,Oro Interactive,1578,208,88.4,06/19/2024
+1898830,VBridger,20.69,Game,"Casual, Animation & Modeling, Utilities",PiPuProductions,PiPuProductions,67,21,76.1,04/10/2022
+394690,Tower Unite,59.99,Game,"Action, Adventure, Casual, Indie, Massively Multiplayer, Racing, Early Access",PixelTail Games,PixelTail Games,17836,1961,90.1,04/08/2016
+1645820,SurrounDead,38.49,Game,"Action, Adventure, Indie, RPG, Early Access",PlaySurrounDead,PlaySurrounDead,5016,625,88.9,06/24/2022
+1241100,POLYGON,Gratuito,Game,"Action, Indie, Massively Multiplayer, Free To Play, Early Access",Redaster Studio,Redaster Studio,23342,7947,74.6,03/06/2020
+1211020,Wobbly Life,56.99,Game,"Action, Adventure, Casual, Indie, Simulation, Early Access",RubberBandGames,RubberBandGames,21471,680,96.9,07/08/2020
+489630,"Warhammer 40,000: Gladius - Relics of War",117.62,Game,Strategy,Proxy Studios,Slitherine Ltd.,10067,2408,80.7,07/12/2018
+1876890,Wandering Sword,73.99,Game,"Adventure, Indie, RPG, Strategy",The Swordman Studio,Spiral Up Games,17397,1285,93.1,09/14/2023
+2399830,ARK: Survival Ascended,220.00,Game,"Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",Studio Wildcard,Studio Wildcard,33858,24176,58.3,10/25/2023
+2897580,Idle Hero TD,Gratuito,Game,"Action, Casual, Indie, Strategy, Free To Play, Early Access",Swell Games LLC,Swell Games LLC,200,61,76.6,05/03/2024
+1714040,Super Auto Pets,Gratuito,Game,"Free To Play, Strategy",Team Wood Games,Team Wood Games,29179,3024,90.6,09/24/2021
+108600,Project Zomboid,59.99,Game,"Indie, RPG, Simulation, Early Access",The Indie Stone,The Indie Stone,295330,18317,94.16,11/08/2013
+2325290,Sky: Children of the Light,Gratuito,Game,"Adventure, Casual, Indie, Massively Multiplayer, RPG, Free To Play, Early Access",thatgamecompany,thatgamecompany,5988,1125,84.2,04/10/2024
+2627540,へなぽらんど,Gratuito,Game,"Simulation, Early Access",へなぽこや,へなぽこや,52,12,81.2,11/01/2023
+1584090,东方夜雀食堂 - Touhou Mystia's Izakaya,33.67,Game,"Casual, Indie, RPG, Simulation",二色幽紫蝶,二色幽紫蝶,22701,526,97.7,10/01/2021
+1097430,依盖之书 book of yog,Gratuito,Game,"Action, Adventure, Casual, Massively Multiplayer, RPG, Simulation, Strategy, Free To Play, Early Access",元气工作室,元气工作室,4122,2303,64.2,07/29/2022
+736190,Chinese Parents,Gratuito,Game,"Casual, Indie, RPG, Simulation",墨鱼玩游戏,墨鱼玩游戏,22173,2020,91.7,09/29/2018
+1266630,懒人修仙传2,16.59,Game,"Casual, Indie, RPG, Simulation, Early Access",托更的修罗,托更的修罗,594,189,75.9,06/21/2022
+376210,The Isle,36.99,Game,"Action, Adventure, Indie, Massively Multiplayer, Simulation, Early Access",Afterthought LLC,Afterthought LLC,66662,15313,81.32,12/02/2015
+1384160,GUILTY GEAR -STRIVE-,173.99,Game,Action,Arc System Works,Arc System Works,47520,4551,91.26,06/11/2021
+469600,Legion TD 2,73.99,Game,"Casual, Indie, Strategy",AutoAttack Games,AutoAttack Games,10637,1705,86.2,10/01/2021
+391220,Rise of the Tomb Raider,41.49,Game,"Action, Adventure",Crystal Dynamics,Crystal Dynamics,119856,7661,94.0,02/09/2016
+203160,Tomb Raider,4.49,Game,"Action, Adventure",Crystal Dynamics,Crystal Dynamics,226084,9097,96.1,03/05/2013
+750920,Shadow of the Tomb Raider,Gratuito,Game,"Action, Adventure",Eidos-Montréal,Crystal Dynamics,61794,11734,84.0,09/14/2018
+1313140,Cult of the Lamb,75.61,Game,"Action, Adventure, Indie, Strategy",Massive Monster,Devolver Digital,76776,3888,95.18,08/11/2022
+1092790,Inscryption,49.99,Game,"Adventure, Indie, Strategy",Daniel Mullins Games,Devolver Digital,113920,3596,96.94,10/19/2021
+311690,Enter the Gungeon,46.99,Game,"Action, Adventure, Indie",Dodge Roll,Devolver Digital,77235,3478,95.7,04/05/2016
+2140510,Town of Salem 2,Gratuito,Game,"Action, Casual, RPG, Strategy, Free To Play",BlankMediaGames LLC,Digital Bandidos,5171,1695,75.3,08/25/2023
+230410,Warframe,Gratuito,Game,"Action, RPG, Free To Play",Digital Extremes,Digital Extremes,514890,78438,86.78,03/25/2013
+1283970,YoloMouse,21.99,Game,"Animation & Modeling, Design & Illustration, Education, Software Training, Utilities",Dragonrise Games,Dragonrise Games,1737,139,92.6,05/01/2020
+518790,theHunter: Call of the Wild™,59.99,Game,"Adventure, Simulation, Sports",Expansive Worlds,Expansive Worlds,143337,18699,88.46,02/16/2017
+253710,theHunter Classic,Gratuito,Game,"Action, Adventure, Free To Play, Simulation, Sports",Expansive Worlds,Expansive Worlds,23899,17686,57.5,06/03/2014
+1324130,Stranded: Alien Dawn,101.99,Game,"Simulation, Strategy",Haemimont Games,Frontier Foundry,7173,1230,85.4,04/25/2023
+1611910,"Warhammer 40,000: Chaos Gate - Daemonhunters",84.99,Game,"RPG, Strategy",Complex Games,Frontier Foundry,9141,2627,77.7,05/05/2022
+269950,X-Plane 11,57.99,Game,Simulation,Laminar Research,Laminar Research,16625,1298,92.8,03/30/2017
+2014780,X-Plane 12,214.99,Game,Simulation,Laminar Research,Laminar Research,2657,584,82.0,12/17/2022
+569480,Kingdoms and Castles,46.99,Game,"Indie, Simulation, Strategy","Lion Shield, LLC","Lion Shield, LLC",26300,1909,93.2,07/20/2017
+2638370,Five Nights at Freddy's: Into the Pit,59.99,Game,"Action, Adventure, Indie",Mega Cat Studios,Mega Cat Studios,5349,220,96.0,08/07/2024
+1708850,Drug Dealer Simulator 2,73.99,Game,"Action, Adventure, Indie, Simulation, Strategy",Byterunners,Movie Games S.A.,2505,954,72.4,06/20/2024
+365360,Battle Brothers,69.99,Game,"Indie, RPG, Strategy",Overhype Studios,Overhype Studios,19815,2612,88.4,03/24/2017
+2427700,Backpack Battles,41.99,Game,"Strategy, Early Access",PlayWithFurcifer,PlayWithFurcifer,9299,1054,89.8,03/08/2024
+438040,Shakes and Fidget,Gratuito,Game,"Adventure, Casual, Indie, Massively Multiplayer, RPG, Strategy, Free To Play",Playa Games GmbH,Playa Games GmbH,33757,2659,92.7,02/24/2016
+220200,Kerbal Space Program,72.99,Game,"Indie, Simulation",Squad,Private Division,116512,6064,95.1,04/27/2015
+1371980,No Rest for the Wicked,116.99,Game,"Action, Adventure, RPG, Early Access",Moon Studios GmbH,Private Division,23745,6952,77.4,04/18/2024
+262060,Darkest Dungeon®,73.99,Game,"Indie, RPG, Strategy",Red Hook Studios,Red Hook Studios,127553,11621,91.65,01/19/2016
+1940340,Darkest Dungeon® II,107.99,Game,"Indie, RPG, Strategy",Red Hook Studios,Red Hook Studios,12509,4009,75.7,05/08/2023
+2701510,奕剑江湖,Gratuito,Game,"Action, RPG",Star-Star Studio,Star-Star Studio,260,45,85.2,08/06/2024
+1604030,V Rising,101.99,Game,"Action, Adventure, Massively Multiplayer",Stunlock Studios,Stunlock Studios,88251,11420,88.5,05/08/2024
+1145360,Hades,73.99,Game,"Action, Indie, RPG",Supergiant Games,Supergiant Games,261953,4476,98.32,09/17/2020
+1145350,Hades II,88.99,Game,"Action, Indie, RPG, Early Access",Supergiant Games,Supergiant Games,43133,2492,94.5,05/06/2024
+223710,Cry of Fear,Gratuito,Game,"Action, Adventure, Indie",Team Psykskallar,Team Psykskallar,57742,7586,88.4,04/25/2013
+1144200,Ready or Not,109.99,Game,"Action, Adventure, Indie",VOID Interactive,VOID Interactive,164804,22575,88.0,12/13/2023
+379430,Kingdom Come: Deliverance,149.00,Game,"Action, Adventure, RPG",Warhorse Studios,Warhorse Studios,108939,21436,83.6,02/13/2018
+744900,Dead Frontier 2,Gratuito,Game,"Action, Free To Play, Indie, Massively Multiplayer, RPG",Creaky Corpse Ltd,Creaky Corpse Ltd,17773,7252,71.0,07/15/2019
+3141670,漂流佣兵 Demo,Gratuito,Game,"Indie, RPG, Strategy",Dimension Travler,Dimension Travler,0,0,0.0,08/23/2024
+223750,DCS World Steam Edition,Gratuito,Game,"Simulation, Free To Play",Eagle Dynamics SA,Eagle Dynamics SA,28891,5037,85.2,03/18/2018
+252490,Rust,103.49,Game,"Action, Adventure, Indie, Massively Multiplayer, RPG",Facepunch Studios,Facepunch Studios,954294,141588,87.08,02/08/2018
+1106840,Hydroneer,46.99,Game,"Adventure, Casual, Indie, Simulation, Strategy",Foulball Hangover,Foulball Hangover,19536,2871,87.2,05/08/2020
+346900,AdVenture Capitalist,Gratuito,Game,"Casual, Indie, Free To Play",Hyper Hippo Games,Hyper Hippo Games,50899,6917,88.0,03/30/2015
+663090,Granado Espada,Gratuito,Game,"Free To Play, Massively Multiplayer, RPG","IMCGAMES Co.,Ltd.","IMCGAMES Co.,Ltd.",763,446,63.1,10/15/2017
+1690710,Incremental Epic Hero 2,Gratuito,Game,"Adventure, Indie, RPG, Strategy, Free To Play, Early Access",Hapiwaku,"Idle System, Inc.",723,296,71.0,07/22/2022
+1827980,Idle Spiral,Gratuito,Game,"Casual, Indie, Simulation, Strategy, Free To Play","Idle System, Inc.","Idle System, Inc.",1319,291,81.9,04/30/2022
+1335200,Action Taimanin,Gratuito,Game,"Action, Adventure, RPG, Free To Play",LiLith,Infini-Brain inc.,14870,2966,83.4,10/06/2020
+1258080,Shop Titans,Gratuito,Game,"Adventure, Casual, RPG, Simulation, Free To Play","Kabam Games, Inc.","Kabam Games, Inc.",12115,3409,78.04,05/05/2020
+244210,Assetto Corsa,Gratuito,Game,"Indie, Racing, Simulation, Sports",Kunos Simulazioni,Kunos Simulazioni,122622,10000,92.5,12/19/2014
+2418520,Farm Together 2,59.99,Game,"Casual, Indie, Simulation, Early Access",Milkstone Studios,Milkstone Studios,1728,218,88.8,05/07/2024
+1721470,Poppy Playtime,Gratuito,Game,"Action, Adventure, Indie",Mob Entertainment,Mob Entertainment,63868,13058,83.0,10/12/2021
+2138610,The Legend of Heroes: Trails through Daybreak,162.00,Game,"Action, Adventure, RPG",Nihon Falcom,"NIS America, Inc.",459,35,92.9,03/01/2023
+700330,SCP: Secret Laboratory,Gratuito,Game,"Action, Free To Play",Northwood Studios,Northwood Studios,180213,16612,91.56,12/29/2017
+2203070,Dragonheir: Silent Gods,Gratuito,Game,"Adventure, Massively Multiplayer, RPG, Strategy, Free To Play",SGRA Studio,Nuverse Pte. Ltd.,1487,986,60.1,10/26/2023
+905370,Conqueror's Blade,Gratuito,Game,"Action, Massively Multiplayer, Strategy, Free To Play",Booming Tech,Poros Interactive,22459,7517,74.9,05/30/2019
+459820,Crush Crush,Gratuito,Game,"Casual, Indie, Free To Play",Sad Panda Studios,Sad Panda Studios,23316,2709,89.6,05/13/2016
+777130,Blush Blush,Gratuito,Game,"Casual, Indie, Simulation, Free To Play",Sad Panda Studios,Sad Panda Studios,5924,849,87.5,04/04/2019
+1948280,Stacklands,26.49,Game,"Casual, Indie, Simulation",Sokpop Collective,Sokpop Collective,23218,833,96.5,04/08/2022
+1260320,Party Animals,64.95,Game,"Action, Casual, Indie",Recreate Games,Source Technology,37286,12224,75.3,09/20/2023
+2709440,Delta Force: Hawk Ops Alpha Test,Gratuito,Game,"Action, Adventure, Massively Multiplayer, Free To Play",Team Jade,TiMi Studio Group,0,0,0.0,
+1824220,Chivalry 2,75.49,Game,"Action, Massively Multiplayer",Torn Banner Studios,Tripwire Presents,31467,8005,79.72,06/12/2022
+371970,Barony,59.99,Game,"Action, Adventure, Indie, RPG",Turning Wheel LLC,Turning Wheel LLC,7524,634,92.2,06/23/2015
+813780,Age of Empires II: Definitive Edition,36.99,Game,Strategy,"Forgotten Empires, Tantalus Media, Wicked Witch, World's Edge",Xbox Game Studios,139991,7710,94.78,11/14/2019
+1172620,Sea of Thieves,149.00,Game,"Action, Adventure",Rare Ltd,Xbox Game Studios,301799,35256,89.54,06/03/2020
+976730,Halo: The Master Chief Collection,199.00,Game,Action,"343 Industries, Splash Damage, Ruffian Games, Bungie, Saber Interactive",Xbox Game Studios,212962,17317,92.48,12/03/2019
+1250410,Microsoft Flight Simulator,249.95,Game,Simulation,Asobo Studio,Xbox Game Studios,47523,12816,78.76,08/18/2020
+1240440,Halo Infinite,Gratuito,Game,"Action, Free To Play",343 Industries,Xbox Game Studios,121342,51633,70.15,11/15/2021
+933110,Age of Empires III: Definitive Edition,Gratuito,Game,"Free To Play, Strategy","World's Edge, Tantalus Media, Forgotten Empires",Xbox Game Studios,36862,6741,84.54,10/15/2020
+221380,Age of Empires II (2013),36.99,Game,Strategy,"Skybox Labs, Hidden Path Entertainment, Ensemble Studios, Forgotten Empires",Xbox Game Studios,95805,4242,95.76,04/09/2013
+1551360,Forza Horizon 5,249.00,Game,"Action, Adventure, Racing, Simulation, Sports",Playground Games,Xbox Game Studios,167218,22408,88.2,11/08/2021
+1293830,Forza Horizon 4,249.00,Game,Racing,Playground Games,Xbox Game Studios,216545,24421,89.9,03/09/2021
+266840,Age of Mythology: Extended Edition,55.99,Game,"Simulation, Strategy",SkyBox Labs,Xbox Game Studios,31724,2354,93.1,05/08/2014
+495420,State of Decay 2,79.99,Game,"Action, RPG, Simulation",Undead Labs,Xbox Game Studios,45332,9458,82.7,03/13/2020
+1057090,Ori and the Will of the Wisps,129.00,Game,Action,Moon Studios GmbH,Xbox Game Studios,125163,4410,96.6,03/10/2020
+287450,Rise of Nations: Extended Edition,36.99,Game,"Simulation, Strategy",SkyBox Labs,Xbox Game Studios,13173,751,94.6,06/12/2014
+1017900,Age of Empires: Definitive Edition,35.95,Game,Strategy,Forgotten Empires,Xbox Game Studios,10779,2076,83.9,08/19/2019
+314160,Microsoft Flight Simulator X: Steam Edition,45.99,Game,Simulation,Microsoft Game Studios,Xbox Game Studios,21459,3413,86.3,10/16/2006
+2440510,Forza Motorsport,299.00,Game,Racing,Turn 10,Xbox Game Studios,3207,4426,42.0,10/09/2023
+1097840,Gears 5,149.00,Game,"Action, Adventure",The Coalition,Xbox Game Studios,15654,6718,70.0,09/09/2019
+105450,Age of Empires® III (2007),69.99,Game,"Simulation, Strategy",Ensemble Studios,Xbox Game Studios,28884,2884,90.9,09/15/2009
+1672970,Minecraft Dungeons,Gratuito,Game,"Action, Adventure, RPG",Mojang Studios,Xbox Game Studios,10946,1044,91.3,09/22/2021
+1533390,Gorilla Tag,59.99,Game,"Action, Casual",Another Axiom Inc.,Another Axiom Inc.,51543,5063,91.1,01/01/2023
+782330,DOOM Eternal,Gratuito,Game,Action,id Software,Bethesda Softworks,176103,17268,91.07,03/20/2020
+306130,The Elder Scrolls Online,285.39,Game,"Action, Adventure, Massively Multiplayer, RPG",ZeniMax Online Studios,Bethesda Softworks,120720,27082,81.7,04/04/2014
+379720,DOOM,9.99,Game,Action,id Software,Bethesda Softworks,184494,8841,95.4,05/13/2016
+205100,Dishonored,32.63,Game,"Action, Adventure",Arkane Studios,Bethesda Softworks,77651,1875,97.6,10/08/2012
+201810,Wolfenstein: The New Order,9.99,Game,Action,MachineGames,Bethesda Softworks,48737,4630,91.3,05/20/2014
+403640,Dishonored 2,Gratuito,Game,Action,Arkane Studios,Bethesda Softworks,53273,6448,89.2,11/11/2016
+612880,Wolfenstein II: The New Colossus,61.07,Game,Action,Machine Games,Bethesda Softworks,33307,8022,80.6,10/26/2017
+480490,Prey,24.60,Game,"Action, Adventure",Arkane Studios,Bethesda Softworks,43670,4420,90.8,05/04/2017
+1817230,Hi-Fi RUSH,Gratuito,Game,Action,Tango Gameworks,Bethesda Softworks,30306,815,97.4,01/25/2023
+365670,Blender,Gratuito,Application,"Animation & Modeling, Design & Illustration, Video Production",Blender Foundation,Blender Foundation,58772,2119,96.52,04/24/2015
+1366800,Crosshair X,17.49,Game,"Action, Adventure, Indie, Animation & Modeling, Design & Illustration, Education, Photo Editing, Utilities, Game Development",CenterPoint Gaming,CenterPoint Gaming,17512,1455,92.3,06/01/2020
+2250040,Crosshair V2,Gratuito,Game,Utilities,CenterPoint Gaming,CenterPoint Gaming,4248,482,89.8,01/26/2023
+1189490,觅长生,3.49,Game,"Indie, RPG, Strategy",Chalcedony Network,Chalcedony Network,24147,1717,93.4,11/26/2019
+1929610,Demonologist,46.99,Game,"Action, Adventure, Indie",Clock Wizard Games,Clock Wizard Games,16271,2522,86.6,09/25/2023
+362890,Black Mesa,59.99,Game,"Action, Adventure, Indie",Crowbar Collective,Crowbar Collective,110526,5455,95.3,03/06/2020
+2524890,Pixel Gun 3D: PC Edition,Gratuito,Game,"Action, Adventure, Massively Multiplayer, Free To Play",Cubic Games Studio,Cubic Games Studio,17404,10349,62.7,04/02/2024
+2965660,PILGRIM,26.49,Game,"Action, Adventure, Indie, Early Access",DESPERATE MEASURES,DESPERATE MEASURES,942,157,85.7,05/31/2024
+2709570,Supermarket Together,Gratuito,Game,"Casual, Indie, Simulation, Free To Play",DeadDevsTellNoLies,DeadDevsTellNoLies,6281,544,92.0,08/09/2024
+1127500,Mini Motorways,20.69,Game,"Casual, Indie, Simulation, Strategy",Dinosaur Polo Club,Dinosaur Polo Club,18834,776,96.0,07/20/2021
+383120,Empyrion - Galactic Survival,59.99,Game,"Adventure, Indie, Simulation, Strategy",Eleon Game Studios,Eleon Game Studios,25446,6725,79.1,08/05/2020
+242760,The Forest,37.99,Game,"Action, Adventure, Indie, Simulation",Endnight Games Ltd,Endnight Games Ltd,530219,24926,95.51,04/30/2018
+2698780,ContractVille,59.99,Game,"Casual, Indie, Simulation, Early Access",MYM Games Studios,FiftyEight Studios,1120,301,78.8,05/31/2024
+1197260,The Perfect Tower II,Gratuito,Game,"Action, Indie, Strategy, Free To Play, Early Access",Fire Sword Studios,Fire Sword Studios,2901,379,88.4,02/26/2021
+380600,Fishing Planet,Gratuito,Game,"Massively Multiplayer, Simulation, Sports, Free To Play",Fishing Planet LLC,Fishing Planet LLC,50202,7788,86.57,08/28/2017
+1954420,麻雀一番街 - 本格麻雀ゲーム,Gratuito,Game,,"Formirai Co., Ltd.","Formirai Co., Ltd.",1303,1086,54.5,09/08/2022
+244450,Men of War: Assault Squad 2,88.99,Game,"Action, Simulation, Strategy",Digitalmindsoft,Fulqrum Publishing,38709,3726,91.2,05/15/2014
+2051620,Enlisted,Gratuito,Game,"Action, Massively Multiplayer, Free To Play",Darkflow Software,Gaijin Network Ltd,4007,1345,74.87,07/16/2024
+236390,War Thunder,Gratuito,Game,"Action, Massively Multiplayer, Simulation, Free To Play",Gaijin Entertainment,Gaijin Network Ltd,414061,247839,62.6,08/15/2013
+386180,Crossout,Gratuito,Game,"Action, Adventure, Massively Multiplayer, Racing, Free To Play",Targem Games,Gaijin Network Ltd,45969,14926,75.5,07/26/2017
+632360,Risk of Rain 2,59.99,Game,"Action, Indie",Hopoo Games,Gearbox Publishing,271362,11042,96.09,08/11/2020
+858820,Tribes of Midgard,43.37,Game,"Action, Adventure, Indie, RPG",Norsfell,Gearbox Publishing,16565,5059,76.6,07/27/2021
+1280930,Astral Ascent,48.00,Game,"Action, Adventure, Indie",Hibernian Workshop,Hibernian Workshop,4228,279,93.8,11/14/2023
+2069310,RealFlight Evolution,350.00,Game,"Indie, Racing, Simulation","Horizon Hobby, LLC","Horizon Hobby, LLC",586,92,86.4,10/27/2022
+1659040,HITMAN World of Assassination,88.99,Game,"Action, Adventure",IO Interactive A/S,IO Interactive A/S,25713,4216,85.9,01/20/2022
+1458140,Pacific Drive,88.99,Game,"Action, Adventure, Indie, Racing, Simulation",Ironwood Studios,Kepler Interactive,10673,2209,82.9,02/22/2024
+2305840,Cat Quest III,59.99,Game,"Action, Adventure, Indie, RPG",The Gentlebros,Kepler Interactive,1128,68,94.3,08/08/2024
+457140,Oxygen Not Included,45.99,Game,"Indie, Simulation",Klei Entertainment,Klei Entertainment,114559,3836,96.76,07/30/2019
+322330,Don't Starve Together,27.99,Game,"Action, Adventure, Indie, RPG, Simulation, Strategy",Klei Entertainment,Klei Entertainment,444162,20097,95.7,04/21/2016
+219740,Don't Starve,20.69,Game,"Adventure, Indie, Simulation",Klei Entertainment,Klei Entertainment,103886,3522,96.7,04/23/2013
+216150,MapleStory,Gratuito,Game,"Action, Adventure, Casual, Massively Multiplayer, RPG, Free To Play",NEXON Korea Corporation,Nexon America Inc.,8294,5000,62.39,08/09/2012
+784080,MechWarrior 5: Mercenaries,57.99,Game,"Action, Simulation",Piranha Games Inc.,Piranha Games Inc.,9590,1792,84.3,05/26/2021
+342200,MechWarrior Online,Gratuito,Game,"Action, Massively Multiplayer, Simulation, Strategy, Free To Play",Piranha Games Inc.,Piranha Games Inc.,9335,2349,79.9,12/10/2015
+2333480,RAID: Shadow Legends,Gratuito,Game,"Massively Multiplayer, RPG, Strategy, Free To Play",Plarium Global Ltd,Plarium Global Ltd,755,589,56.2,01/09/2024
+3330,Zuma Deluxe,9.90,Game,Casual,"PopCap Games, Inc.","PopCap Games, Inc.",4301,210,95.3,08/30/2006
+78000,Bejeweled 3,9.90,Game,"Casual, Strategy","PopCap Games, Inc.","PopCap Games, Inc.",6388,264,96.0,12/07/2010
+1281930,tModLoader,Gratuito,Game,"Action, Adventure, Indie, RPG, Free To Play",TML Team,"Re-Logic, TML Team",257915,7785,97.07,05/16/2020
+990080,Hogwarts Legacy,249.99,Game,"Action, Adventure, RPG",Avalanche Software,Warner Bros. Games,251186,25603,90.75,02/10/2023
+1818750,MultiVersus,Gratuito,Game,"Action, Free To Play",Player First Games,Warner Bros. Games,90124,25553,77.91,07/19/2022
+1971870,Mortal Kombat 1,229.99,Game,Action,NetherRealm Studios,Warner Bros. Games,20233,9090,69.0,09/19/2023
+976310,Mortal Kombat 11,229.99,Game,Action,NetherRealm Studios,Warner Bros. Games,87641,11778,88.2,04/23/2019
+924970,Back 4 Blood,279.99,Game,Action,Turtle Rock Studios,Warner Bros. Games,40550,19734,67.3,10/12/2021
+234140,Mad Max,89.99,Game,"Action, Adventure",Avalanche Studios,Warner Bros. Games,69627,5988,92.1,09/01/2015
+920210,LEGO® Star Wars™: The Skywalker Saga,199.99,Game,"Action, Adventure",TT Games,Warner Bros. Games,39113,3843,91.1,04/05/2022
+427520,Factorio,Gratuito,Game,"Casual, Indie, Simulation, Strategy",Wube Software LTD.,Wube Software LTD.,182009,6114,96.75,08/14/2020
+1606180,下一站江湖Ⅱ,73.99,Game,"Action, Adventure, Indie, RPG",白玉京工作室,白玉京工作室,4005,1514,72.6,04/17/2024
+1520470,封灵档案/Soul Dossier,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Strategy, Free To Play",（Hong Kong）GKD,（Hong Kong）GKD,20509,4411,82.3,03/2021
+2767520,LurkBait Twitch Fishing,23.50,Game,"Casual, Indie, Simulation, Sports",BLAMCAM Interactive,BLAMCAM Interactive,204,2,99.0,02/21/2024
+221100,DayZ,149.99,Game,"Action, Adventure, Massively Multiplayer",Bohemia Interactive,Bohemia Interactive,301918,95866,75.9,12/13/2018
+107410,Arma 3,99.99,Game,"Action, Simulation, Strategy",Bohemia Interactive,Bohemia Interactive,244411,26015,90.38,09/12/2013
+1874880,Arma Reforger,99.99,Game,"Action, Simulation, Strategy",Bohemia Interactive,Bohemia Interactive,10095,4542,68.97,11/16/2023
+219990,Grim Dawn,73.99,Game,"Action, Adventure, Indie, RPG",Crate Entertainment,Crate Entertainment,87769,5838,93.8,02/25/2016
+1044720,Farthest Frontier,88.99,Game,"Indie, Simulation, Strategy, Early Access",Crate Entertainment,Crate Entertainment,14999,2521,85.6,08/09/2022
+1149620,Gas Station Simulator,59.99,Game,"Indie, Simulation",DRAGO entertainment,DRAGO entertainment,20094,2741,88.0,09/15/2021
+899770,Last Epoch,99.99,Game,"Action, Adventure, Indie, RPG",Eleventh Hour Games,Eleventh Hour Games,75314,22484,77.0,02/21/2024
+1465360,SnowRunner,99.90,Game,"Adventure, Simulation",Saber Interactive,Focus Entertainment,31445,3693,89.49,05/17/2021
+581320,Insurgency: Sandstorm,99.90,Game,Action,New World Interactive,Focus Entertainment,102971,18267,84.9,12/12/2018
+666140,My Time at Portia,99.90,Game,"Adventure, Casual, Indie, RPG, Simulation",Pathea Games,Focus Entertainment,39008,3430,91.9,01/15/2019
+2012510,Stormgate,Gratuito,Game,"Action, Strategy, Free To Play, Early Access",Frost Giant Studios,Frost Giant Studios,2014,1584,55.98,07/30/2024
+363890,RPG Maker MV,Gratuito,Game,"RPG, Design & Illustration, Education, Web Publishing, Game Development",Gotcha Gotcha Games,Gotcha Gotcha Games,7078,692,91.1,10/23/2015
+1096900,RPG Maker MZ,Gratuito,Game,"RPG, Design & Illustration, Education, Web Publishing, Game Development",Gotcha Gotcha Games,Gotcha Gotcha Games,1394,247,84.9,08/27/2020
+238960,Path of Exile,Gratuito,Game,"Action, Adventure, Indie, Massively Multiplayer, RPG, Free To Play",Grinding Gear Games,Grinding Gear Games,200299,24327,89.17,10/23/2013
+244850,Space Engineers,44.00,Game,"Action, Indie, Simulation, Strategy",Keen Software House,Keen Software House,113216,14784,88.45,02/28/2019
+16900,GROUND BRANCH,64.99,Game,"Action, Indie, Simulation, Early Access",BlackFoot Studios,MicroProse Software,17456,2026,89.6,08/14/2018
+2780980,LOCKDOWN Protocol,32.99,Game,"Action, Casual, Indie, Strategy, Early Access",Mirage Creative Lab,Mirage Creative Lab,465,20,95.9,07/22/2024
+2666510,Rusty's Retirement,13.79,Game,"Casual, Indie, Simulation, Strategy",Mister Morris Games,Mister Morris Games,7248,254,96.6,04/26/2024
+2448970,Dungeonborne,Gratuito,Game,"Action, Adventure, RPG, Strategy, Free To Play, Early Access",Mithril Interactive,Mithril Interactive,8882,4351,67.12,07/19/2024
+2889840,Spectre Divide Playtest,Gratuito,Game,Action,Mountaintop Studios,Mountaintop Studios,0,0,0.0,
+1869590,Omega Strikers,Gratuito,Game,"Action, Strategy, Free To Play",Odyssey Interactive,Odyssey Interactive,19361,3465,84.8,09/16/2022
+236850,Europa Universalis IV,143.99,Game,"Simulation, Strategy","Paradox Development Studio, Paradox Tinto",Paradox Interactive,110494,16292,87.15,08/13/2013
+255710,Cities: Skylines,107.99,Game,"Simulation, Strategy",Colossal Order Ltd.,Paradox Interactive,241945,17430,93.28,03/10/2015
+949230,Cities: Skylines II,199.99,Game,Simulation,Colossal Order Ltd.,Paradox Interactive,30910,27017,53.36,10/24/2023
+637090,BATTLETECH,143.99,Game,"Action, Adventure, Strategy",Harebrained Schemes,Paradox Interactive,25353,5011,83.5,04/24/2018
+1669000,Age of Wonders 4,199.99,Game,Strategy,Triumph Studios,Paradox Interactive,11990,2741,81.4,05/02/2023
+233450,Prison Architect,107.99,Game,"Indie, Simulation, Strategy",Double Eleven,Paradox Interactive,62856,7408,89.5,10/06/2015
+1385380,Across the Obelisk,71.99,Game,"Adventure, Indie, RPG, Strategy",Dreamsite Games,Paradox Interactive,8885,1939,82.1,04/08/2021
+464920,Surviving Mars,107.99,Game,"Simulation, Strategy",Haemimont Games,Paradox Interactive,21783,3912,84.8,03/15/2018
+983870,FOUNDRY,Gratuito,Game,"Indie, Simulation, Strategy, Early Access",Channel 3 Entertainment,Paradox Interactive,1476,292,83.5,05/02/2024
+1583320,Pro Soccer Online,20.69,Game,"Sports, Early Access",Skywall Studios LLC,Skywall Studios LLC,18622,1994,90.3,11/15/2021
+1274570,DEVOUR,16.99,Game,Indie,Straight Back Games,Straight Back Games,69528,6667,91.3,01/28/2021
+1976440,CounterSide,Gratuito,Game,"RPG, Free To Play","Studiobside Co.,Ltd","Studiobside Co.,Ltd",2491,842,74.7,09/01/2022
+1096530,Solasta: Crown of the Magister,Gratuito,Game,"Adventure, RPG, Strategy",Tactical Adventures,Tactical Adventures,16731,2390,87.5,05/27/2021
+972660,Spiritfarer®: Farewell Edition,88.99,Game,"Adventure, Indie, Simulation",Thunder Lotus Games,Thunder Lotus Games,37226,1736,95.5,08/18/2020
+1129580,Medieval Dynasty,129.00,Game,"Action, Adventure, Indie, RPG, Simulation",Render Cube,Toplitz Productions,36409,3709,90.8,09/23/2021
+2668080,SNOWBREAK,Gratuito,Game,"Action, Adventure, RPG",Amazing Seasun Games,Amazing Seasun Games,4011,910,81.5,12/24/2023
+3016800,Mecha BREAK Playtest,Gratuito,Game,"Action, Massively Multiplayer",Amazing Seasun Games,Amazing Seasun Games,0,0,0.0,
+268650,From The Depths,Gratuito,Game,"Action, Adventure, Indie, Simulation, Strategy",Brilliant Skies Ltd.,Brilliant Skies Ltd.,9745,1103,89.8,11/06/2020
+2362300,Train Sim World® 4,Gratuito,Game,Simulation,Dovetail Games,Dovetail Games - TSW,2603,693,79.0,09/26/2023
+1568590,Goose Goose Duck,Gratuito,Game,"Casual, Indie, Massively Multiplayer, Strategy, Free To Play","Gaggle Studios, Inc.","Gaggle Studios, Inc.",56736,8373,87.14,10/03/2021
+2642680,Half Sword Demo,Gratuito,Game,"Action, Adventure, Indie, Simulation",Half Sword Games,Game Seer Publishing,0,0,0.0,
+2527870,Half Sword Playtest,Gratuito,Game,"Action, Adventure, Indie, Simulation",Half Sword Games,Game Seer Publishing,0,0,0.0,
+1995520,Pax Dei,208.90,Game,"Massively Multiplayer, RPG, Early Access",Mainframe Industries,Mainframe Industries,3186,1126,73.9,06/18/2024
+1203220,NARAKA: BLADEPOINT,Gratuito,Game,"Action, Adventure, Massively Multiplayer",24 Entertainment,NetEase Games Global,200682,87094,69.7,08/11/2021
+1432860,Sun Haven,69.99,Game,"Adventure, Casual, Indie, RPG, Simulation",Pixel Sprout Studios,Pixel Sprout Studios,16345,2719,85.7,03/10/2023
+1296610,Peglin,59.99,Game,"Casual, Indie, RPG, Strategy, Early Access",Red Nexus Games Inc.,Red Nexus Games Inc.,9318,2053,81.9,04/25/2022
+719890,Beasts of Bermuda,37.99,Game,"Adventure, Indie, Massively Multiplayer, Simulation, Early Access","Sastrei Studios, LLC","Sastrei Studios, LLC",5481,2283,70.6,12/21/2018
+361420,ASTRONEER,88.99,Game,"Adventure, Indie",System Era Softworks,System Era Softworks,110093,9523,92.0,12/16/2016
+232090,Killing Floor 2,55.99,Game,Action,Tripwire Interactive,Tripwire Interactive,107577,15146,87.7,11/18/2016
+799600,Cosmoteer: Starship Architect & Commander,54.99,Game,"Simulation, Strategy, Early Access",Walternate Realities,Walternate Realities,9144,469,95.1,10/24/2022
+753640,Outer Wilds,67.99,Game,"Action, Adventure",Mobius Digital,Annapurna Interactive,66868,3051,95.6,06/18/2020
+1332010,Stray,79.99,Game,"Adventure, Indie",BlueTwelve Studio,Annapurna Interactive,139927,3902,97.3,07/19/2022
+293760,Automation - The Car Company Tycoon Game,88.99,Game,"Indie, Racing, Simulation, Strategy, Early Access",Camshaft Software Ltd,Camshaft Software Ltd,11333,871,92.9,03/12/2015
+218230,PlanetSide 2,Gratuito,Game,"Action, Massively Multiplayer, Free To Play",Rogue Planet Games,Daybreak Game Company,58423,13660,81.0,11/20/2012
+205710,EverQuest Free-to-Play,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play",Darkpaw Games,Daybreak Game Company,1754,439,80.0,12/13/2012
+24200,DC Universe Online,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play",Dimensional Ink Games,Daybreak Game Company,16492,3962,80.6,11/02/2011
+1418630,Dread Hunger,Gratuito,Game,"Action, Adventure, Indie",Dread Hunger Team,Digital Confectioners,27826,18327,60.3,01/26/2022
+2066020,Soulstone Survivors,29.99,Game,"Action, Indie, RPG, Early Access",Game Smithing Limited,Game Smithing Limited,17207,1796,90.5,11/07/2022
+2321470,Deep Rock Galactic: Survivor,32.99,Game,"Action, Early Access",Funday Games,Ghost Ship Publishing,23399,4044,85.3,02/14/2024
+1364390,Animaze,Gratuito,Game,"Animation & Modeling, Video Production",Holotech Studios Inc.,Holotech Studios Inc.,2024,965,67.7,11/17/2021
+2479810,Gray Zone Warfare,101.99,Game,"Action, Adventure, Massively Multiplayer, Early Access","MADFINGER Games, a.s.","MADFINGER Games, a.s.",32408,16304,66.5,04/30/2024
+767560,War Robots,Gratuito,Game,"Action, Free To Play",MY.GAMES HOLDINGS LTD,MY.GAMES HOLDINGS LTD,14280,8962,61.4,04/05/2018
+1229490,ULTRAKILL,73.99,Game,"Action, Indie, Early Access","Arsi ""Hakita"" Patala",New Blood Interactive,120880,2623,97.9,09/03/2020
+571740,Golf It!,17.99,Game,"Casual, Indie, Simulation, Sports",Perfuse Entertainment,Perfuse Entertainment,25043,2612,90.6,08/18/2023
+699130,World War Z,99.90,Game,Action,Saber Interactive Inc,Saber Interactive Inc,17726,3435,83.8,09/21/2021
+304930,Unturned,Gratuito,Game,"Action, Adventure, Casual, Indie, Free To Play",Smartly Dressed Games,Smartly Dressed Games,498126,46393,91.48,07/07/2017
+2396240,SteamWorld Heist II,88.99,Game,"Action, Adventure, Indie, RPG, Strategy",Thunderful Development,Thunderful Publishing,505,21,96.0,08/08/2024
+1898300,ASKA,73.99,Game,"Action, Adventure, Simulation, Early Access",Sand Sailor Studio,Thunderful Publishing,2566,710,78.3,06/20/2024
+297000,Heroes of Might & Magic III - HD Edition,44.99,Game,"RPG, Strategy",Dotemu,Ubisoft Entertainment,16653,4434,79.0,01/29/2015
+470220,UNO,Gratuito,Game,Casual,Ubisoft Entertainment,Ubisoft Entertainment,36006,13547,72.7,12/08/2016
+431960,Wallpaper Engine,13.79,Application,"Casual, Indie, Animation & Modeling, Design & Illustration, Photo Editing, Utilities",Wallpaper Engine Team,Wallpaper Engine Team,792697,15765,98.05,11/16/2018
+763890,Wildermyth,Gratuito,Game,"Indie, RPG, Strategy",Worldwalker Games LLC,Worldwalker Games LLC,15979,851,94.9,06/15/2021
+354290,LoveBeat,Gratuito,Game,"Action, Casual, Free To Play, Massively Multiplayer","CRAZYDIAMOND CO., LTD.","CRAZYDIAMOND CO., LTD.",1170,380,75.5,01/13/2016
+635260,CarX Drift Racing Online,46.99,Game,"Massively Multiplayer, Racing, Simulation, Sports","CarX Technologies, LLC","CarX Technologies, LLC",74809,3619,95.4,11/17/2017
+386940,Ultimate Chicken Horse,44.99,Game,"Action, Casual, Indie",Clever Endeavour Games,Clever Endeavour Games,41887,1838,95.8,03/04/2016
+602960,Barotrauma,99.99,Game,"Action, Indie, Simulation, Strategy",FakeFish,Daedalic Entertainment,61434,4197,93.6,03/13/2023
+305620,The Long Dark,50.00,Game,"Adventure, Indie, Simulation, Strategy",Hinterland Studio Inc.,Hinterland Studio Inc.,95389,9546,90.9,08/01/2017
+504230,Celeste,59.99,Game,"Action, Adventure, Indie",Maddy Makes Games Inc.,Maddy Makes Games Inc.,101736,2605,97.5,01/25/2018
+204880,Sins of a Solar Empire: Rebellion,59.99,Game,"Action, Indie, Simulation, Strategy",Ironclad Games Corporation,Stardock Entertainment,14677,1064,93.2,06/12/2012
+714010,Aimlabs,Gratuito,Game,"Action, Adventure, Casual, Indie, Simulation, Free To Play","State Space Labs, Inc.","State Space Labs, Inc.",107283,7718,93.3,06/16/2023
+780290,Gloomhaven,91.99,Game,"Adventure, RPG, Strategy",Flaming Fowl Studios,Twin Sails Interactive,11889,2323,83.7,10/20/2021
+800270,Terraforming Mars,59.99,Game,Strategy,Artefacts Studio,Twin Sails Interactive,4378,1773,71.2,10/17/2018
+997010,Police Simulator: Patrol Officers,99.00,Game,Simulation,Aesir Interactive,astragon Entertainment,13584,3489,79.6,11/10/2022
+603850,Age of History II,16.99,Game,Strategy,Łukasz Jakowski,Łukasz Jakowski Games,37703,4445,89.5,11/21/2018
+1909840,JIANGHU CHRONICLES,52.49,Game,"Action, Adventure, Indie, Simulation, Early Access",一品阁,方块游戏(CubeGame),1048,375,73.6,07/31/2024
+311210,Call of Duty: Black Ops III,68.90,Game,"Action, Adventure","Treyarch, Aspyr (Mac)","Activision, Aspyr (Mac)",170177,32777,83.85,11/06/2015
+667970,VTOL VR,55.99,Game,"Action, Indie, Simulation","Boundless Dynamics, LLC","Boundless Dynamics, LLC",16626,329,98.1,08/03/2017
+548430,Deep Rock Galactic,57.99,Game,Action,Ghost Ship Games,Coffee Stain Publishing,297038,8651,97.17,05/13/2020
+526870,Satisfactory,107.99,Game,"Adventure, Indie, Simulation, Strategy, Early Access",Coffee Stain Studios,Coffee Stain Publishing,161100,5051,96.96,06/08/2020
+892970,Valheim,37.99,Game,"Action, Adventure, Indie, RPG, Early Access",Iron Gate AB,Coffee Stain Publishing,437942,25754,94.4,02/02/2021
+1041320,Lords Mobile,Gratuito,Game,"Massively Multiplayer, RPG, Strategy, Free To Play",IGG SINGAPORE PTE. LTD.,IGG SINGAPORE PTE. LTD.,3648,1742,67.7,06/02/2019
+799960,Wizard101,Gratuito,Game,"Adventure, Casual, Massively Multiplayer, RPG, Strategy, Free To Play",KingsIsle Entertainment,KingsIsle Entertainment,5912,1314,81.8,09/02/2008
+2622000,Astral Party,Gratuito,Game,"Casual, Indie, RPG, Strategy",STAR ENGINE PROJECT,Neverland Entertainment,5844,5373,52.1,02/28/2024
+1142710,Total War: WARHAMMER III,299.00,Game,"Action, Strategy","CREATIVE ASSEMBLY, Feral Interactive","SEGA, Feral Interactive",72287,33411,68.39,02/17/2022
+552990,World of Warships,Gratuito,Game,"Action, Massively Multiplayer, Simulation, Free To Play",Wargaming Group Limited,Wargaming Group Limited,109539,31838,77.48,11/15/2017
+444200,World of Tanks Blitz,Gratuito,Game,"Action, Massively Multiplayer, Simulation, Strategy, Free To Play",Wargaming Group Limited,Wargaming Group Limited,112793,29119,79.5,11/09/2016
+1407200,World of Tanks,Gratuito,Game,"Action, Massively Multiplayer, Simulation, Free To Play",Wargaming Group Limited,Wargaming Group Limited,66405,12001,84.7,04/28/2021
+720620,TaleSpire,47.49,Game,"Indie, RPG, Simulation, Early Access",Bouncyrock Entertainment,Bouncyrock Entertainment,3906,339,92.0,04/15/2021
+761890,Albion Online,Gratuito,Game,"Massively Multiplayer, RPG, Free To Play",Sandbox Interactive GmbH,Sandbox Interactive GmbH,59492,15700,79.12,05/16/2018
+1482520,Space Station 14 Playtest,Gratuito,Game,"Action, Indie, RPG, Simulation, Free To Play, Early Access",Space Wizards Federation,Space Wizards Federation,0,0,0.0,
+218620,PAYDAY 2,32.99,Game,"Action, RPG",OVERKILL - a Starbreeze Studio.,Starbreeze Publishing AB,587822,68669,89.54,08/13/2013
+261550,Mount & Blade II: Bannerlord,199.99,Game,"Action, Indie, RPG, Simulation, Strategy",TaleWorlds Entertainment,TaleWorlds Entertainment,218459,30044,87.91,10/25/2022
+48700,Mount & Blade: Warband,79.99,Game,"Action, RPG",TaleWorlds Entertainment,TaleWorlds Entertainment,158503,3665,97.74,03/31/2010
+2141910,Magic: The Gathering Arena,Gratuito,Game,"Strategy, Free To Play",Wizards of the Coast LLC,Wizards of the Coast LLC,7984,4379,64.58,05/23/2023
+2739990,Mahjong Soul,Gratuito,Game,"Casual, Strategy",Catfood Studio,YOSTAR HONG KONG LIMITED,755,71,91.4,07/23/2024
+242920,Banished,34.99,Game,"Indie, Simulation, Strategy",Shining Rock Software LLC,Shining Rock Software LLC,37445,3996,90.4,02/18/2014
+2707930,Palia,Gratuito,Game,"Adventure, Casual, Indie, RPG, Simulation, Free To Play",Singularity 6 Corporation,Singularity 6 Corporation,10683,2578,80.56,03/25/2024
+212500,The Lord of the Rings Online™,Gratuito,Game,"Action, Adventure, Massively Multiplayer, RPG, Free To Play","Standing Stone Games, LLC","Standing Stone Games, LLC",15741,3595,81.4,06/06/2012
+1089090,ONE PIECE: PIRATE WARRIORS 4,154.90,Game,Action,Koei Tecmo,BANDAI NAMCO Entertainment,17001,1505,91.9,03/26/2020
+389730,TEKKEN 7,162.50,Game,"Action, Sports",BANDAI NAMCO Studios Inc.,BANDAI NAMCO Entertainment,75517,15275,83.2,06/01/2017
+349040,NARUTO SHIPPUDEN: Ultimate Ninja STORM 4,77.50,Game,"Action, Adventure",CyberConnect2 Co. Ltd.,BANDAI NAMCO Entertainment,77318,7558,91.1,02/04/2016
+728530,SD GUNDAM G GENERATION CROSS RAYS,Gratuito,Game,"RPG, Strategy",TOM CREATE,BANDAI NAMCO Entertainment,6348,1107,85.2,11/27/2019
+1778820,TEKKEN 8,269.90,Game,Action,Bandai Namco Studios Inc.,Bandai Namco Entertainment,25942,10803,70.6,01/25/2024
+1607250,MY HERO ULTRA RUMBLE,Gratuito,Game,"Action, Casual, Free To Play",Byking Inc.,Bandai Namco Entertainment,11581,5747,66.8,09/28/2023
+678950,DRAGON BALL FighterZ,232.50,Game,Action,Arc System Works,Bandai Namco Entertainment,63741,6665,90.5,01/26/2018
+454650,DRAGON BALL XENOVERSE 2,77.50,Game,"Action, Adventure, Casual, Massively Multiplayer",QLOC,Bandai Namco Entertainment,45100,4827,90.3,10/27/2016
+502500,ACE COMBAT™7: SKIES UNKNOWN,287.50,Game,"Action, Simulation",Bandai Namco Studios Inc.,Bandai Namco Entertainment,36692,5095,87.8,01/31/2019
+678960,CODE VEIN,61.31,Game,"Action, RPG",Bandai Namco Studios,Bandai Namco Entertainment,46443,8113,85.1,09/26/2019
+1276760,DRAGON BALL: THE BREAKERS,86.90,Game,"Action, Adventure, Casual",Dimps Corporation,Bandai Namco Entertainment,2920,2625,52.7,10/13/2022
+381210,Dead by Daylight,59.97,Game,Action,Behaviour Interactive Inc.,Behaviour Interactive Inc.,596231,145301,80.4,06/14/2016
+553850,HELLDIVERS™ 2,199.50,Game,Action,Arrowhead Game Studios,PlayStation Publishing LLC,644075,252341,71.85,02/08/2024
+1593500,God of War,199.90,Game,"Action, Adventure, RPG","Santa Monica Studio, Jetpack Interactive",PlayStation Publishing LLC,130600,4821,96.44,01/14/2022
+2215430,Ghost of Tsushima DIRECTOR'S CUT,249.90,Game,"Action, Adventure","Sucker Punch Productions, Nixxes Software",PlayStation Publishing LLC,34711,2961,92.14,05/16/2024
+2420110,Horizon Forbidden West™ Complete Edition,249.90,Game,"Action, RPG","Guerrilla, Nixxes Software",PlayStation Publishing LLC,13759,1568,89.77,03/21/2024
+1259420,Days Gone,199.90,Game,"Action, Adventure",Bend Studio,PlayStation Publishing LLC,80969,6228,92.9,05/18/2021
+1151640,Horizon Zero Dawn™ Complete Edition,199.90,Game,"Action, Adventure, RPG",Guerrilla,PlayStation Publishing LLC,104553,14138,88.1,08/07/2020
+1817070,Marvel’s Spider-Man Remastered,249.90,Game,"Action, Adventure, Casual",Insomniac Games,PlayStation Publishing LLC,93587,4042,95.9,08/12/2022
+1888930,The Last of Us™ Part I,249.90,Game,"Action, Adventure",Naughty Dog LLC,PlayStation Publishing LLC,40913,15577,72.4,03/28/2023
+1817190,Marvel's Spider-Man: Miles Morales,199.90,Game,"Action, Adventure",Insomniac Games,PlayStation Publishing LLC,33565,2450,93.2,11/18/2022
+1659420,UNCHARTED™: Legacy of Thieves Collection,199.90,Game,Adventure,Naughty Dog LLC,PlayStation Publishing LLC,20469,2331,89.8,10/19/2022
+627690,Idle Champions of the Forgotten Realms,Gratuito,Game,"Action, Adventure, Indie, Strategy, Free To Play",Codename Entertainment Inc.,Codename Entertainment Inc.,10752,3084,77.71,03/25/2020
+1066780,Transport Fever 2,107.99,Game,"Casual, Indie, Simulation, Strategy",Urban Games,Good Shepherd Entertainment,22134,2464,90.0,12/11/2019
+1102190,Monster Train,73.99,Game,Strategy,Shiny Shoe,Good Shepherd Entertainment,19447,785,96.1,05/21/2020
+1437830,三国群英传2,4.99,Game,"Action, RPG, Simulation, Strategy","USERJOY Technology Co.,Ltd.","USERJOY Technology Co.,Ltd.",1476,98,93.8,11/13/2020
+1105420,Game of Thrones Winter is Coming,Gratuito,Game,"Massively Multiplayer, RPG, Simulation, Strategy, Free To Play",YOUZU (SINGAPORE) PTE. LTD.,YOUZU (SINGAPORE) PTE. LTD.,1445,943,60.5,11/14/2019
+2357570,Overwatch® 2,Gratuito,Game,"Action, Free To Play","Blizzard Entertainment, Inc.","Blizzard Entertainment, Inc.",56614,231793,19.63,08/10/2023
+2344520,Diablo® IV,229.90,Game,"Action, RPG","Blizzard Entertainment, Inc.","Blizzard Entertainment, Inc.",19993,10357,65.9,10/17/2023
+2855560,流亡黯道,Gratuito,Game,,Grinding Gear Games,"Hotcool Technology Co., LTD.",342,237,59.07,03/01/2024
+1259970,eFootball PES 2021 SEASON UPDATE,Gratuito,Game,Sports,Konami Digital Entertainment,Konami Digital Entertainment,29083,8626,77.1,09/15/2020
+2384620,Out of the Park Baseball 25,134.99,Game,"Indie, Simulation, Sports, Strategy",Out of the Park Developments,Out of the Park Developments,468,71,86.8,03/15/2024
+1447430,小黑盒加速器,Gratuito,Game,"Software Training, Web Publishing, Game Development",Qing Feng Beijing Technology,Qing Feng Beijing Technology,6404,1649,79.5,05/24/2021
+264710,Subnautica,124.50,Game,"Adventure, Indie",Unknown Worlds Entertainment,Unknown Worlds Entertainment,271927,8748,96.9,01/23/2018
+848450,Subnautica: Below Zero,124.50,Game,"Adventure, Indie",Unknown Worlds Entertainment,Unknown Worlds Entertainment,81748,8164,90.9,05/13/2021
+8930,Sid Meier's Civilization V,44.99,Game,Strategy,"Firaxis Games, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)",191109,7673,96.14,09/21/2010
+49520,Borderlands 2,99.99,Game,"Action, RPG","Gearbox Software, Aspyr (Mac), Aspyr (Linux)","2K, Aspyr (Mac), Aspyr (Linux)",267620,17355,93.91,09/18/2012
+268910,Cuphead,36.99,Game,"Action, Indie",Studio MDHR Entertainment Inc.,Studio MDHR Entertainment Inc.,161334,6132,96.3,09/29/2017
+2593370,The Hungry Lamb: Traveling in the Late Ming Dynasty,32.99,Game,"Adventure, Indie, RPG",零创游戏(ZerocreationGame),零创游戏(ZerocreationGame),32993,1003,97.0,04/22/2024
+1042550,Digimon Story Cyber Sleuth: Complete Edition,129.99,Game,RPG,"h.a.n.d., Inc.",BANDAI NAMCO Entertainment Inc.,8848,845,91.3,10/17/2019
+1367080,MOBILE SUIT GUNDAM BATTLE OPERATION 2,Gratuito,Game,"Action, Free To Play","B.B.STUDIO CO.,LTD.",Bandai Namco Entertainment Inc.,3948,14683,21.2,05/30/2023
+851850,DRAGON BALL Z: KAKAROT,229.90,Game,"Action, RPG",CyberConnect2 Co. Ltd.,Bandai Namco Entertainment Inc.,47564,3389,93.3,01/16/2020
+251570,7 Days to Die,121.99,Game,"Action, Adventure, Indie, RPG, Simulation, Strategy",The Fun Pimps,The Fun Pimps Entertainment LLC,294490,39361,88.21,07/25/2024
+346110,ARK: Survival Evolved,46.99,Game,"Action, Adventure, Indie, Massively Multiplayer, RPG","Studio Wildcard, Instinct Games, Efecto Studios, Virtual Basement LLC","Studio Wildcard, Snail Games USA",583167,116074,83.4,08/29/2017
+1468810,鬼谷八荒 Tale of Immortal,56.99,Game,"Action, Adventure, Indie, RPG, Simulation",鬼谷工作室,"鬼谷工作室, Lightning Games",117496,105753,52.63,05/26/2023
+1371580,Myth of Empires,88.99,Game,"Action, Adventure, Indie, Massively Multiplayer, RPG",Angela Game,Imperium Interactive Entertainment,11180,4953,69.3,02/21/2024
+3590,Plants vs. Zombies: Game of the Year,9.90,Game,Strategy,"PopCap Games, Inc.","PopCap Games, Inc., Electronic Arts",126439,3149,97.57,05/05/2009
+1180320,三国杀,Gratuito,Game,"Strategy, Free To Play",杭州游卡网络技术有限公司,杭州游卡网络技术有限公司,5310,49970,9.6,12/17/2021
+209000,Batman™: Arkham Origins,89.99,Game,"Action, Adventure",WB Games Montreal,Warner Bros. Interactive Entertainment,45434,5625,89.0,10/25/2013
+241930,Middle-earth™: Shadow of Mordor™,19.99,Game,,Monolith Productions,Warner Bros. Interactive Entertainment,79652,6599,92.3,09/30/2014
+249130,LEGO® MARVEL Super Heroes,36.99,Game,"Action, Adventure",Traveller's Tales,Warner Bros. Interactive Entertainment,22219,1150,95.1,10/22/2013
+1333350,Angel Legion: LSP Idle RPG,Gratuito,Game,"Adventure, RPG, Strategy, Free To Play",Shanghai SilverMoon Network Technology Co.Ltd,Shanghai SilverMoon Network Technology Co.Ltd,7482,1335,84.9,08/14/2020
+570940,DARK SOULS™: REMASTERED,154.90,Game,Action,"QLOC, FromSoftware, Inc.","FromSoftware, Inc., Bandai Namco Entertainment",99982,9014,91.73,05/23/2018
+268500,XCOM 2,99.90,Game,Strategy,"Firaxis Games, Feral Interactive (Mac), Feral Interactive (Linux)","2K, Feral Interactive (Mac), Feral Interactive (Linux)",81169,15037,84.37,02/05/2016
+4700,Total War: MEDIEVAL II - Definitive Edition,84.99,Game,Strategy,"CREATIVE ASSEMBLY, Feral Interactive (Mac), Feral Interactive (Linux)","SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",30070,1338,95.74,11/15/2006
+231430,Company of Heroes 2,36.99,Game,Strategy,"Relic Entertainment, Feral Interactive (Mac), Feral Interactive (Linux)","SEGA, Feral Interactive (Mac), Feral Interactive (Linux)",84352,22585,78.88,06/25/2013
+1238810,Battlefield™ V,151.00,Game,Action,DICE,Electronic Arts,156713,65260,70.6,06/11/2020
+1517290,Battlefield™ 2042,159.00,Game,"Action, Adventure, Casual",DICE,Electronic Arts,121434,151023,44.57,11/19/2021
+1238840,Battlefield 1 ™,Gratuito,Game,"Action, Massively Multiplayer",DICE,Electronic Arts,135623,21169,86.5,10/20/2016
+1238860,Battlefield 4™,Gratuito,Game,Action,DICE,Electronic Arts,54030,8688,86.1,10/29/2013
+1237950,STAR WARS™ Battlefront™ II,Gratuito,Game,"Action, Adventure",DICE,Electronic Arts,52586,7667,87.3,11/16/2017
+2161700,Persona 3 Reload,Gratuito,Game,"Adventure, RPG, Strategy",ATLUS,SEGA,23978,1350,94.67,02/02/2024
+1687950,Persona 5 Royal,Gratuito,Game,RPG,ATLUS,SEGA,73504,2396,96.8,10/21/2022
+1113000,Persona 4 Golden,Gratuito,Game,RPG,ATLUS,SEGA,69131,2083,97.1,06/13/2020
+1875830,Shin Megami Tensei V: Vengeance,299.90,Game,"Adventure, RPG",ATLUS,SEGA,5263,233,95.8,06/14/2024
+273110,Counter-Strike Nexon: Studio,Gratuito,Game,"Action, Casual, Massively Multiplayer, Free To Play",Valve,NEXON,27847,14113,66.4,10/07/2014
+730,Counter-Strike 2,Gratuito,Game,"Action, Free To Play",Valve,Valve,7189545,1061023,87.14,08/21/2012
+570,Dota 2,Gratuito,Game,"Action, Strategy, Free To Play",Valve,Valve,1875595,420677,81.68,07/09/2013
+440,Team Fortress 2,Gratuito,Game,"Action, Free To Play",Valve,Valve,972758,140747,87.36,10/10/2007
+240,Counter-Strike: Source,32.99,Game,Action,Valve,Valve,167354,6430,96.3,11/01/2004
+10,Counter-Strike,20.69,Game,Action,Valve,Valve,233301,6154,97.43,11/01/2000
+550,Left 4 Dead 2,32.99,Game,Action,Valve,Valve,859063,21945,97.5,11/16/2009
+620,Portal 2,4.49,Game,"Action, Adventure",Valve,Valve,398382,5251,98.7,04/18/2011
+1840,Source Filmmaker,Gratuito,Game,"Animation & Modeling, Video Production",Valve,Valve,35827,2684,93.0,07/10/2012
+1046930,Dota Underlords,Gratuito,Game,"Casual, Free To Play, Strategy",Valve,Valve,74621,16119,82.2,06/20/2019
+70,Half-Life,20.69,Game,Action,Valve,Valve,127155,4578,96.5,11/08/1998
+220,Half-Life 2,32.99,Game,Action,Valve,Valve,193499,4798,97.6,11/16/2004
+546560,Half-Life: Alyx,7.03,Game,"Action, Adventure",Valve,Valve,89137,1533,98.3,03/23/2020
+500,Left 4 Dead,32.99,Game,Action,Valve,Valve,55067,2107,96.3,11/17/2008
+400,Portal,32.99,Game,Action,Valve,Valve,160658,2498,98.5,10/10/2007
+254700,Resident Evil 4 (2005),39.99,Game,"Action, Adventure",Capcom,Capcom,70163,5311,93.0,02/28/2014
+21690,Resident Evil 5,84.00,Game,"Action, Adventure",Capcom,Capcom,38259,5902,86.6,09/15/2009
+221040,Resident Evil 6,84.00,Game,"Action, Adventure",Capcom,Capcom,39595,10710,78.7,03/22/2013
+367500,Dragon's Dogma: Dark Arisen,74.99,Game,"Action, Adventure, RPG",Capcom,Capcom,39848,5123,88.6,01/15/2016
+1665460,eFootball™ 2024,Gratuito,Game,"Simulation, Sports, Free To Play",KONAMI,KONAMI,34523,43636,44.17,09/30/2021
+601510,Yu-Gi-Oh! Duel Links,Gratuito,Game,"Strategy, Free To Play",KONAMI,KONAMI,35480,6950,83.62,11/17/2017
+1449850,Yu-Gi-Oh! Master Duel,Gratuito,Game,"Simulation, Strategy, Free To Play",KONAMI,KONAMI,57189,18684,75.4,01/18/2022
+287700,METAL GEAR SOLID V: THE PHANTOM PAIN,99.00,Game,"Action, Adventure",KONAMI,KONAMI,85025,7929,91.5,09/01/2015
+704450,Neverwinter Nights: Enhanced Edition,59.99,Game,RPG,Beamdog,Beamdog,7119,792,90.0,03/27/2018
+898920,Axis & Allies 1942 Online,59.99,Game,Strategy,Beamdog,Beamdog,3391,967,77.8,11/09/2021
+228280,Baldur's Gate: Enhanced Edition,59.99,Game,"Adventure, RPG",Beamdog,Beamdog,14233,1219,92.1,01/16/2013
+257350,Baldur's Gate II: Enhanced Edition,Gratuito,Game,"Adventure, RPG",Beamdog,Beamdog,8620,762,91.9,11/15/2013
+1328670,Mass Effect™ Legendary Edition,Gratuito,Game,"Action, RPG",BioWare,Electronic Arts,43988,4377,90.95,05/14/2021
+1222690,Dragon Age™ Inquisition,Gratuito,Game,"Action, Adventure, RPG, Strategy",BioWare,Electronic Arts,12827,4320,74.8,11/18/2014
+47810,Dragon Age: Origins - Ultimate Edition,Gratuito,Game,RPG,BioWare,Electronic Arts,21990,3144,87.5,10/26/2010
+1238040,Dragon Age II,Gratuito,Game,"Action, Adventure, RPG",BioWare,Electronic Arts,4257,1042,80.3,03/08/2011
+1238000,Mass Effect™: Andromeda,68.00,Game,"Action, RPG",BioWare,Electronic Arts,11153,3639,75.4,03/20/2017
+2221490,Tom Clancy's The Division 2,169.99,Game,"Action, Adventure, RPG",Ubisoft,Ubisoft,12879,4620,73.6,01/12/2023
+447040,Watch_Dogs 2,149.99,Game,"Action, Adventure",Ubisoft,Ubisoft,63108,13181,82.7,11/28/2016
+289650,Assassin's Creed Unity,89.99,Game,"Action, Adventure",Ubisoft,Ubisoft,52608,14775,78.1,11/11/2014
+243470,Watch_Dogs,94.99,Game,"Action, Adventure",Ubisoft,Ubisoft,32747,9677,77.2,05/26/2014
+1401590,Disney Dreamlight Valley,147.45,Game,"Action, Adventure, Casual, RPG, Simulation",Gameloft,Gameloft,15524,1515,91.1,12/05/2023
+1815780,Asphalt Legends Unite,Gratuito,Game,"Action, Adventure, Racing, Sports, Free To Play",Gameloft,Gameloft,8010,1878,81.0,08/02/2022
+702320,March of Empires,Gratuito,Game,"Massively Multiplayer, RPG, Strategy, Free To Play",Gameloft,Gameloft,1013,533,65.5,12/11/2017
+1537830,Disney Speedstorm,Gratuito,Game,"Action, Adventure, Casual, Racing, Simulation, Sports, Free To Play",Gameloft,Gameloft,4264,2069,67.3,04/18/2023
+1985810,Call of Duty®: Black Ops Cold War,274.00,Game,Action,Treyarch,Activision,13439,3285,80.4,03/08/2023
+42700,Call of Duty: Black Ops,184.00,Game,Action,Treyarch,Activision,34627,3550,90.7,11/09/2010
+10090,Call of Duty: World at War,91.90,Game,Action,Treyarch,Activision,44829,3880,92.0,11/18/2008
+202990,Call of Duty: Black Ops II - Multiplayer,89.99,Game,Action,Treyarch,Activision,39210,6253,86.2,11/12/2012
+39210,FINAL FANTASY XIV Online,52.99,Game,"Massively Multiplayer, RPG",Square Enix,Square Enix,67108,9030,88.14,02/18/2014
+2552430,KINGDOM HEARTS -HD 1.5+2.5 ReMIX-,219.90,Game,"Action, Adventure, RPG",Square Enix,Square Enix,3354,1259,72.71,06/13/2024
+312060,FINAL FANTASY XIV Online Free Trial,52.99,Game,"Massively Multiplayer, RPG",Square Enix,Square Enix,690,280,71.1,08/27/2013
+2484110,FINAL FANTASY VII EVER CRISIS,Gratuito,Game,"Adventure, RPG",Square Enix,Square Enix,1142,866,56.9,12/06/2023
+1295510,DRAGON QUEST XI S: Echoes of an Elusive Age – Definitive Edition,169.90,Game,"Adventure, RPG",Square Enix,Square Enix,8107,554,93.6,12/04/2020
+524220,NieR:Automata™,107.00,Game,"Action, RPG",Square Enix,Square Enix,113800,17516,86.7,03/17/2017
+1462040,FINAL FANTASY VII REMAKE INTERGRADE,349.90,Game,"Action, Adventure, RPG",Square Enix,Square Enix,24960,3067,89.1,06/17/2022
+359870,FINAL FANTASY X/X-2 HD Remaster,55.99,Game,RPG,Square Enix,Square Enix,16525,1776,90.3,05/12/2016
+1971650,OCTOPATH TRAVELER II,299.90,Game,RPG,Square Enix,Square Enix,10959,533,95.4,02/24/2023
+2552450,KINGDOM HEARTS III + Re Mind (DLC),249.90,Game,"Action, Adventure, RPG",Square Enix,Square Enix,667,57,92.1,06/13/2024
+637650,FINAL FANTASY XV WINDOWS EDITION,Gratuito,Game,RPG,Square Enix,Square Enix,41825,8584,83.0,03/06/2018
+289070,Sid Meier's Civilization VI,129.00,Game,Strategy,Firaxis Games,2K,279598,44203,86.3,10/20/2016
+8800,Sid Meier's Civilization IV: Beyond the Sword,14.99,Game,Strategy,Firaxis Games,2K,4084,153,96.4,07/24/2007
+3910,Sid Meier's Civilization III: Complete,16.99,Game,Strategy,Firaxis Games,2K,6045,708,89.5,10/30/2001
+368260,Marvel's Midnight Suns,299.90,Game,"RPG, Strategy",Firaxis Games,2K,15833,3621,81.4,12/02/2022
+3900,Sid Meier's Civilization IV,29.99,Game,Strategy,Firaxis Games,2K,2914,219,93.0,10/25/2005
+200510,XCOM: Enemy Unknown,69.99,Game,Strategy,Firaxis Games,2K,51403,3078,94.4,10/11/2012
+2229850,Command & Conquer: Red Alert™ 2 and Yuri’s Revenge™,Gratuito,Game,"Action, Strategy",EA Los Angeles,Electronic Arts,4314,402,91.5,03/07/2024
+2732960,Command & Conquer™ Generals Zero Hour,Gratuito,Game,"Action, Strategy",EA Los Angeles,Electronic Arts,1855,227,89.1,03/07/2024
+17480,Command & Conquer™ Red Alert™ 3,Gratuito,Game,Strategy,EA Los Angeles,Electronic Arts,11963,2061,85.3,10/28/2008
+24810,Command & Conquer 3: Kane's Wrath™,Gratuito,Game,Strategy,EA Los Angeles,Electronic Arts,4216,218,95.1,11/13/2009
+2338770,NBA 2K24,299.90,Game,"Simulation, Sports",Visual Concepts,2K,11423,28295,28.76,09/08/2023
+1919590,NBA 2K23,299.90,Game,"Simulation, Sports",Visual Concepts,2K,31422,19120,62.17,09/08/2022
+2315690,WWE 2K24,299.99,Game,"Simulation, Sports",Visual Concepts,2K,3221,1305,71.2,03/08/2024
+1644960,NBA 2K22,Gratuito,Game,"Simulation, Sports",Visual Concepts,2K,22537,16549,57.7,09/09/2021
+582010,Monster Hunter: World,Gratuito,Game,Action,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",396426,56684,87.49,08/09/2018
+1446780,MONSTER HUNTER RISE,Gratuito,Game,Action,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",81681,19472,80.75,01/12/2022
+2050650,Resident Evil 4,169.00,Game,"Action, Adventure","CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",140635,3473,97.59,03/24/2023
+1364780,Street Fighter™ 6,249.00,Game,"Action, Adventure","CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",39038,6310,86.1,06/01/2023
+2054970,Dragon's Dogma 2,279.00,Game,"Action, RPG","CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",56972,38941,59.4,03/21/2024
+787480,Phoenix Wright: Ace Attorney Trilogy,69.99,Game,Adventure,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",31174,755,97.6,04/09/2019
+601150,Devil May Cry 5,99.90,Game,Action,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",122784,5420,95.8,03/07/2019
+883710,Resident Evil 2,139.90,Game,Action,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",154155,4841,97.0,01/25/2019
+1196590,Resident Evil Village,139.90,Game,Action,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",105032,4836,95.6,05/07/2021
+418370,Resident Evil 7 Biohazard,66.90,Game,"Action, Adventure","CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",84031,4308,95.1,01/24/2017
+2187220,Apollo Justice: Ace Attorney Trilogy,213.00,Game,Adventure,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",1875,170,91.7,01/24/2024
+952060,Resident Evil 3,139.90,Game,Action,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",68022,15941,81.0,04/02/2020
+1158850,The Great Ace Attorney Chronicles,Gratuito,Game,Adventure,"CAPCOM Co., Ltd.","CAPCOM Co., Ltd.",6556,400,94.2,07/26/2021
+359550,Tom Clancy's Rainbow Six Siege,84.99,Game,Action,Ubisoft Montreal,Ubisoft,1113894,199566,84.8,12/01/2015
+304390,For Honor,129.99,Game,Action,Ubisoft Montreal,Ubisoft,100031,43950,69.5,03/14/2024
+2208920,Assassin's Creed Valhalla,199.99,Game,"Action, Adventure, RPG",Ubisoft Montreal,Ubisoft,16756,7482,69.1,12/06/2022
+552520,Far Cry 5,62.95,Game,"Action, Adventure",Ubisoft Montreal,Ubisoft,127807,30467,80.8,03/26/2018
+582160,Assassin's Creed Origins,179.99,Game,"Action, Adventure, RPG",Ubisoft Montreal,Ubisoft,88988,13955,86.4,10/26/2017
+242050,Assassin's Creed IV Black Flag,119.99,Game,"Action, Adventure",Ubisoft Montreal,Ubisoft,57740,7246,88.8,
+33230,Assassin's Creed II,59.99,Game,"Action, Adventure",Ubisoft Montreal,Ubisoft,44625,5320,89.3,03/09/2010
+779340,Total War: THREE KINGDOMS,149.99,Game,"Action, Strategy",CREATIVE ASSEMBLY,SEGA,72396,28358,71.9,05/23/2019
+214950,Total War: ROME II - Emperor Edition,149.99,Game,Strategy,CREATIVE ASSEMBLY,SEGA,69788,14459,82.8,09/02/2013
+2951630,Total War: PHARAOH DYNASTIES,125.50,Game,"Action, Strategy",CREATIVE ASSEMBLY,SEGA,2334,279,89.3,07/25/2024
+34330,Total War: SHOGUN 2,74.99,Game,Strategy,CREATIVE ASSEMBLY,SEGA,56273,5268,91.4,03/15/2011
+594570,Total War: WARHAMMER II,252.00,Game,"Action, Strategy",CREATIVE ASSEMBLY,SEGA,113678,9353,92.4,09/28/2017
+10500,Total War: EMPIRE - Definitive Edition,84.99,Game,Strategy,CREATIVE ASSEMBLY,SEGA,30453,3107,90.7,03/04/2009
+325610,Total War: ATTILA,112.99,Game,Strategy,CREATIVE ASSEMBLY,SEGA,27505,6092,81.9,02/17/2015
+34030,Total War: NAPOLEON - Definitive Edition,84.99,Game,Strategy,CREATIVE ASSEMBLY,SEGA,21861,2091,91.3,02/25/2010
+4760,Rome: Total War,Gratuito,Game,Strategy,CREATIVE ASSEMBLY,SEGA,14886,854,94.6,09/22/2004
+1245620,ELDEN RING,229.90,Game,"Action, RPG","FromSoftware, Inc.","FromSoftware, Inc.",877368,69083,92.7,02/24/2022
+1888160,ARMORED CORE™ VI FIRES OF RUBICON™,257.90,Game,Action,"FromSoftware, Inc.","FromSoftware, Inc.",62654,6065,91.2,08/24/2023
+335300,DARK SOULS™ II: Scholar of the First Sin,114.90,Game,"Action, RPG","FromSoftware, Inc.","Bandai Namco Entertainment, FromSoftware, Inc.",88956,16517,84.34,04/01/2015
+374320,DARK SOULS™ III,229.90,Game,Action,"FromSoftware, Inc.","FromSoftware, Inc., Bandai Namco Entertainment",367410,21878,94.38,04/11/2016
+814380,Sekiro™: Shadows Die Twice,274.00,Game,"Action, Adventure","FromSoftware, Inc.","Activision (Excluding Japan and Asia), FromSoftware, Inc. (Japan), 方块游戏 (Asia)",280103,13660,95.35,03/22/2019
+1677280,Company of Heroes 3,299.99,Game,"Action, Strategy",Relic Entertainment,SEGA,14526,12318,54.1,02/23/2023
+228200,Company of Heroes,36.99,Game,"Action, Strategy",Relic Entertainment,SEGA,14923,871,94.5,09/11/2006
+9450,"Warhammer 40,000: Dawn of War - Soulstorm",64.50,Game,Strategy,Relic Entertainment,SEGA,15335,733,95.4,03/05/2008
+55150,"Warhammer 40,000: Space Marine - Anniversary Edition",199.00,Game,Action,Relic Entertainment,SEGA,23563,2141,91.7,09/05/2011
+1466860,Age of Empires IV: Anniversary Edition,99.99,Game,Strategy,Relic Entertainment,Xbox Game Studios,60873,9086,87.0,10/28/2021
+2849080,Kingdom Rush 5: Alliance TD,59.99,Game,"Indie, Strategy",Ironhide Game Studio,Ironhide Game Studio,4286,692,86.1,07/25/2024
+1367550,Kingdom Rush Vengeance,37.99,Game,Strategy,Ironhide Game Studio,Ironhide Game Studio,8088,447,94.8,10/15/2020
+246420,Kingdom Rush,19.99,Game,Strategy,Ironhide Game Studio,Ironhide Game Studio,13197,368,97.3,01/06/2014
+458710,Kingdom Rush Frontiers,19.99,Game,Strategy,Ironhide Game Studio,Ironhide Game Studio,8261,275,96.8,07/25/2016
+489830,The Elder Scrolls V: Skyrim Special Edition,61.49,Game,RPG,Bethesda Game Studios,Bethesda Softworks,278735,26160,91.42,10/28/2016
+377160,Fallout 4,Gratuito,Game,RPG,Bethesda Game Studios,Bethesda Softworks,309814,64810,82.7,11/10/2015
+1151340,Fallout 76,103.39,Game,RPG,Bethesda Game Studios,Bethesda Softworks,82728,30972,72.76,04/14/2020
+1716740,Starfield,192.48,Game,RPG,Bethesda Game Studios,Bethesda Softworks,89649,67079,57.2,09/05/2023
+588430,Fallout Shelter,Gratuito,Game,"RPG, Simulation, Free To Play",Bethesda Game Studios,Bethesda Softworks,62490,8089,88.5,03/29/2017
+22330,The Elder Scrolls IV: Oblivion,9.99,Game,RPG,Bethesda Game Studios,Bethesda Softworks,44238,2087,95.5,09/11/2007
+72850,The Elder Scrolls V: Skyrim,39.99,Game,RPG,Bethesda Game Studios,Bethesda Softworks,299875,16279,94.9,11/10/2011
+22370,Fallout 3 - Game of the Year Edition,Gratuito,Game,RPG,Bethesda Game Studios,Bethesda Softworks,38936,9266,80.8,10/13/2009
+22320,The Elder Scrolls III: Morrowind,9.99,Game,RPG,Bethesda Game Studios,Bethesda Softworks,23421,1136,95.4,04/29/2002
+703080,Planet Zoo,100.00,Game,"Casual, Simulation, Strategy",Frontier Developments,Frontier Developments,73797,7370,90.92,11/05/2019
+359320,Elite Dangerous,59.99,Game,"Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",Frontier Developments,Frontier Developments,72531,21806,76.9,04/02/2015
+2591280,F1® Manager 2024,101.99,Game,"Simulation, Strategy",Frontier Developments,Frontier Developments,1190,600,66.5,07/23/2024
+493340,Planet Coaster,81.99,Game,"Action, Adventure, Casual, Simulation, Strategy",Frontier Developments,Frontier Developments,60952,5825,91.3,11/17/2016
+1244460,Jurassic World Evolution 2,109.99,Game,"Simulation, Strategy",Frontier Developments,Frontier Developments,26924,3561,88.3,11/09/2021
+213670,South Park™: The Stick of Truth™,89.99,Game,"Action, Adventure, RPG",Obsidian Entertainment,Ubisoft,60891,1498,97.6,03/03/2014
+208580,STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™,32.99,Game,RPG,Obsidian Entertainment,LucasArts,21814,1488,93.6,02/08/2005
+962130,Grounded,199.00,Game,"Action, Adventure",Obsidian Entertainment,Xbox Game Studios,67651,8387,88.97,09/27/2022
+22380,Fallout: New Vegas,Gratuito,Game,"Action, RPG",Obsidian Entertainment,Bethesda Softworks,206575,8361,96.11,10/19/2010
+872410,ROMANCE OF THE THREE KINGDOMS XIV,199.90,Game,Simulation,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",8860,5533,61.6,01/15/2020
+1336980,NOBUNAGA'S AMBITION: Awakening,Gratuito,Game,Simulation,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",1513,549,73.4,07/20/2022
+1325200,Nioh 2 – The Complete Edition,249.00,Game,"Action, RPG","KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",36873,4940,88.2,02/05/2021
+628070,Romance of the Three Kingdoms XI with Power Up Kit,75.49,Game,Strategy,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",2949,234,92.6,01/16/2018
+363150,Romance of the Three Kingdoms XIII,105.99,Game,Simulation,"KOEI TECMO GAMES CO., LTD.","KOEI TECMO GAMES CO., LTD.",4000,3074,56.5,01/27/2016
+394360,Hearts of Iron IV,179.99,Game,"Simulation, Strategy",Paradox Development Studio,Paradox Interactive,270986,26899,90.97,06/06/2016
+1158310,Crusader Kings III,179.99,Game,"RPG, Simulation, Strategy",Paradox Development Studio,Paradox Interactive,100633,9529,91.35,09/01/2020
+203770,Crusader Kings II,Gratuito,Game,"RPG, Simulation, Strategy, Free To Play",Paradox Development Studio,Paradox Interactive,65403,7130,90.17,02/14/2012
+281990,Stellaris,143.99,Game,"Simulation, Strategy",Paradox Development Studio,Paradox Interactive,148018,20626,87.8,05/09/2016
+529340,Victoria 3,179.99,Game,"Simulation, Strategy",Paradox Development Studio,Paradox Interactive,30426,15193,66.7,10/25/2022
+42960,Victoria II,Gratuito,Game,Strategy,Paradox Development Studio,Paradox Interactive,17460,1439,92.4,08/30/2010
+859580,Imperator: Rome,143.99,Game,"Simulation, Strategy",Paradox Development Studio,Paradox Interactive,16595,9256,64.2,04/25/2019
